@@ -234,7 +234,7 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_p
 
 
 #EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="CORDOBA", TELEFE CORDOBA
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0159
+https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/hdntl=exp=1679275645~acl=%2f*~data=hdntl~hmac=b638c7314a6bd10d8d608f1f7e916a090ae4fdca3712463797256d722d39bc15/canal8cordoba0.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1065076342222450690/Yc9-8FPg_400x400.jpg" group-title="TUCUMAN", TELEFE TUCUMAN
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0316
@@ -257,10 +257,10 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0301
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0091
 
 #EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://lh3.googleusercontent.com/-1_p-RfF0oIo/XjtDhLIE25I/AAAAAAAAvpE/uzoG77Dzsp8PEzYtGkaBadawaE0ISWlywCK8BGAsYHg/s0/2020-02-05.png" group-title="CORDOBA", CANAL 10 CORDOBA
-https://stream.arcast.live/canal10/ngrp:canal10_all/chunklist_w1696069620_b1408000.m3u8
+https://stream.arcast.live/canal10/ngrp:canal10_all/chunklist_w83130883_b2486272.m3u8
 
 #EXTINF:-1 group-title="CORDOBA", EL DOCE CORDOBA
-https://www.youtube.com/watch?v=gBbMbqILzXU    
+https://www.youtube.com/watch?v=eoL3NU7DFTw    
 
 #EXTINF:-1 tvg-id="CanalU.ar" tvg-logo="https://lh3.googleusercontent.com/-bhc1ryCQBss/XjtDRMLA6RI/AAAAAAAAvo8/A5WXhRqhV2EdFzBWINyyhUoqFK1eYWJmQCK8BGAsYHg/s0/2020-02-05.png" group-title="CORDOBA", CANAL U CORDOBA
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
