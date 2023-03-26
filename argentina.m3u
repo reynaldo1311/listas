@@ -33,9 +33,10 @@ https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 
 #EXTINF:-1 tvg-ID="ext" tvg-name="IP" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/ip_noticias.png" group-title="NOTICIAS",IP 
 https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
-#EXTINF:-1 tvg-ID="CronicaTV.ar" tvg-name="Cronica HD" tvg-
-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/cronica_tv.png" group-title="NOTICIAS",CRONICA HD 
+
+#EXTINF:-1 tvg-ID="CronicaTV.ar" tvg-name="Cronica HD" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/cronica_tv.png" group-title="NOTICIAS",CRONICA HD 
 https://www.youtube.com/watch?v=InSydaLSSlw
+
 #EXTINF:-1 tvg-ID="Canal26.ar" tvg-name="CANAL 26" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/canal_26.png" group-title="NOTICIAS",CANAL 26 
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8
 
@@ -71,6 +72,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 
 #EXTINF:-1 tvg-ID="Canal24Horas.es" tvg-name="Canal 24 Horas" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/24_horas_internacional.png" group-title="NOTICIAS",Canal 24 Horas
 https://ztnr.rtve.es/ztnr/1694255.m3u8
+
 #EXTINF:-1 tvg-ID="ext" tvg-name="GALICIA TV" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/galicia_tv_america.png" group-title="NOTICIAS",GALICIA TV
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 
@@ -109,10 +111,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745
 
 #EXTINF:-1 tvg-ID="ext" tvg-name="Chilevision Noticias" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/chilevision_noticias.png" group-title="NOTICIAS",Chilevision Noticias
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f94a2866401100074e9dee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-ID="NetTV.ar" tvg-name="NET TV" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/net_tv.png" group-title="NACIONALES",NET TV https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+
+#EXTINF:-1 tvg-ID="NetTV.ar" tvg-name="NET TV" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/net_tv.png" group-title="NACIONALES",NET TV 
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+
 #EXTINF:-1 tvg-ID="Telemax.ar" tvg-name="TELEMAX" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/telemax.png" group-title="NACIONALES",TELEMAX
 https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
-
 
 #EXTINF:-1 tvg-ID="Encuentro.ar" tvg-name="CANAL ENCUENTRO" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/encuentro.png" group-title="NACIONALES",CANAL ENCUENTRO
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8  
