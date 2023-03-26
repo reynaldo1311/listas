@@ -1,142 +1,159 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="ext" tvg-name="EL DOCE CORDOBA" tvg-logo="https://github.com/reynaldo1311/logos/raw/main/el_doce.png?" group-title="PRINCIPAL",EL DOCE CORDOBA
+#EXTINF:-1 tvg-ID="ext" tvg-name="EL DOCE CORDOBA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/el_doce.png" group-title="PRINCIPAL",EL DOCE CORDOBA
 https://www.youtube.com/watch?v=eoL3NU7DFTw
 
 
-#EXTINF:-1 tvg-ID="TelefeCordoba.ar" tvg-name="TELEFE CORDOBA" tvg-logo="https://github.com/reynaldo1311/logos/raw/main/telefe_cordoba.png" group-title="PRINCIPAL",TELEFE CORDOBA
+#EXTINF:-1 tvg-ID="TelefeCordoba.ar" tvg-name="TELEFE CORDOBA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/telefe_cordoba.png" group-title="PRINCIPAL",TELEFE CORDOBA
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0159
 
 
-#EXTINF:-1 tvg-ID="Canal10Cordoba.ar" tvg-name="CANAL 10 CORDOBA" tvg-logo="https://lh3.googleusercontent.com/-1_p-RfF0oIo/XjtDhLIE25I/AAAAAAAAvpE/uzoG77Dzsp8PEzYtGkaBadawaE0ISWlywCK8BGAsYHg/s0/2020-02-05.png" group-title="PRINCIPAL",CANAL 10 CORDOBA
+#EXTINF:-1 tvg-ID="Canal10Cordoba.ar" tvg-name="CANAL 10 CORDOBA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/canal_10.png" group-title="PRINCIPAL",CANAL 10 CORDOBA
 https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
 
 
-#EXTINF:-1 tvg-ID="Telefe.ar" tvg-name="TELEFE  34.1" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="PRINCIPAL",TELEFE  34.1
+#EXTINF:-1 tvg-ID="Telefe.ar" tvg-name="TELEFE  34.1" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/telefe.png" group-title="PRINCIPAL",TELEFE  34.1
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
 
 
-#EXTINF:-1 tvg-ID="ElTrece.ar" tvg-name="CANAL 13  33.1 " tvg-logo="https://pbs.twimg.com/profile_images/1344843564535132160/xT96d8Zv_400x400.jpg" group-title="PRINCIPAL",CANAL 13  33.1 
+#EXTINF:-1 tvg-ID="ElTrece.ar" tvg-name="CANAL 13  33.1 " tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/canal_13.png" group-title="PRINCIPAL",CANAL 13  33.1 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="PRINCIPAL" user-agent="iPhone",América TV (720p)
-
-
-#EXTVLCOPT:http-user-agent=iPhone
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/america_tv.png" group-title="PRINCIPAL" user-agent="iPhone",América TV (720p)#EXTVLCOPT:http-user-agent=iPhone
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
 
-#EXTINF:-1 tvg-ID="ElNueve.ar" tvg-name="CANAL 9  35.1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="PRINCIPAL",CANAL 9  35.1
+#EXTINF:-1 tvg-ID="ElNueve.ar" tvg-name="CANAL 9  35.1" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/el_nueve.png" group-title="PRINCIPAL",CANAL 9  35.1
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 
 
-#EXTINF:-1 tvg-ID="TVPublica.ar" tvg-name="TV PUBLICA - 23.2" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/listas/main/tvpublica.png"
+#EXTINF:-1 tvg-ID="TVPublica.ar" tvg-name="TV PUBLICA - 23.2" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/tvpublica.png"
 group-title="PRINCIPAL",TV PUBLICA - 23.2
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
 
-#EXTINF:-1 tvg-ID="TyCSports.ar" tvg-name="TyC SPORT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="PRINCIPAL",TyC SPORT 
+#EXTINF:-1 tvg-ID="TyCSports.ar" tvg-name="TyC SPORT " tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/tyc_sports.png" group-title="PRINCIPAL",TyC SPORT 
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 
 
-#EXTINF:-1 tvg-ID="ext" tvg-name="CIUDAD MAGICA TV" tvg-logo="https://play-lh.googleusercontent.com/SxFDTWadD_WzvUOKUlPc0n7ZS20-Gatw3OSr1WY2zyuBxZClf2aomcpg9EoVuYZHuHI" group-title="PRINCIPAL",CIUDAD MAGICA TV
+#EXTINF:-1 tvg-ID="ext" tvg-name="CIUDAD MAGICA TV" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/ciudad_magica.png" group-title="PRINCIPAL",CIUDAD MAGICA TV
 https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 
 
-#EXTINF:-1 tvg-ID="ext" tvg-name="IP  24.5" tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="NOTICIAS",IP  24.5
+#EXTINF:-1 tvg-ID="ext" tvg-name="IP  24.5" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/ip_noticias.png" group-title="NOTICIAS",IP  24.5
 https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
-#EXTINF:-1 tvg-ID="CronicaTV.ar" tvg-name="CRONICA HD  24.4 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Crónica_TV_logotipo_(2008-2015).png" group-title="NOTICIAS",CRONICA HD  24.4 
+
+#EXTINF:-1 tvg-ID="CronicaTV.ar" tvg-name="CRONICA HD  24.4 " tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/cr%C3%B3nica_tv.png" group-title="NOTICIAS",CRONICA HD  24.4 
 https://www.youtube.com/watch?v=InSydaLSSlw
 
 
-#EXTINF:-1 tvg-ID="Canal26.ar" tvg-name="CANAL 26  24.2" tvg-logo="https://pbs.twimg.com/profile_images/1539189684961546240/MZ5SxpyR_400x400.jpg" group-title="NOTICIAS",CANAL 26  24.2
+#EXTINF:-1 tvg-ID="Canal26.ar" tvg-name="CANAL 26  24.2" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/canal_26.png" group-title="NOTICIAS",CANAL 26  24.2
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8
 
 
-#EXTINF:-1 tvg-ID="A24.ar" tvg-name="A24  36.3" tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png" group-title="NOTICIAS",A24  36.3
+#EXTINF:-1 tvg-ID="A24.ar" tvg-name="A24  36.3" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/a24l.png" group-title="NOTICIAS",A24  36.3
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 
 
-#EXTINF:-1 tvg-ID="TN.ar" tvg-name="TODO NOTICIAS  " tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="NOTICIAS",TODO NOTICIAS  
+#EXTINF:-1 tvg-ID="TN.ar" tvg-name="TODO NOTICIAS  " tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/tn.png" group-title="NOTICIAS",TODO NOTICIAS  
 https://www.youtube.com/watch?v=6hWHWGJ1Gbw
 
 
-#EXTINF:-1 tvg-ID="C5N.ar" tvg-name="C5N  25.2" tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="NOTICIAS",C5N  25.2
+#EXTINF:-1 tvg-ID="C5N.ar" tvg-name="C5N  25.2" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/c5n.png" group-title="NOTICIAS",C5N  25.2
 https://www.youtube.com/watch?v=S9meel6yYKM
-#EXTINF:-1 tvg-ID="LaNacionPlus.ar" tvg-name="LN+  25.3    " tvg-logo="https://i.imgur.com/Gj1kqH5.png" group-title="NOTICIAS",LN+  25.3    
+
+
+#EXTINF:-1 tvg-ID="LaNacionPlus.ar" tvg-name="LN+  25.3    " tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/la_nacion_%2B.png" group-title="NOTICIAS",LN+  25.3    
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
 
-#EXTINF:-1 tvg-ID="DiputadosTV.ar" tvg-name="DIPUTADOS TV" tvg-logo="" group-title="NOTICIAS",DIPUTADOS TV
+#EXTINF:-1 tvg-ID="DiputadosTV.ar" tvg-name="DIPUTADOS TV" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/dtv.png" group-title="NOTICIAS",DIPUTADOS TV
 https://www.youtube.com/watch?v=Gq6MIaZ501A
 
 
-#EXTINF:-1 tvg-ID="KZO.ar" tvg-name="KZO" tvg-logo="https://pbs.twimg.com/profile_images/1171440347508920320/7pwThQbq_400x400.jpg" group-title="NOTICIAS",KZO
+#EXTINF:-1 tvg-ID="KZO.ar" tvg-name="KZO" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/kzo.png" group-title="NOTICIAS",KZO
 https://www.youtube.com/watch?v=TsT6noTbVaA
 
 
-#EXTINF:-1 tvg-ID="Telesur.ve" tvg-name="TELESUR  25.4" tvg-logo="https://image.roku.com/developer_channels/prod/b1775f8ede21fb711fd46f4c273f39f7e0869a6901a5660c8bca90ecaaf14934.png" group-title="NOTICIAS",TELESUR  25.4
+#EXTINF:-1 tvg-ID="Telesur.ve" tvg-name="TELESUR  25.4" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/telesur.png" group-title="NOTICIAS",TELESUR  25.4
 https://www.youtube.com/watch?v=MjPVcFNnbd0
 
 
-#EXTINF:-1 tvg-ID="RTEspanol.ru" tvg-name="RT  25.5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjPSqFBOrQz5fEGyyzdKq1-Rwg9nJDcQAen64Rgo8kpC0ED3j3xP-DdjtzZT4OzTZdG-o&usqp=CAU" group-title="NOTICIAS",RT  25.5
+#EXTINF:-1 tvg-ID="RTEspanol.ru" tvg-name="Russia TodayT  25.5" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/russia-today.png" group-title="NOTICIAS",RT  25.5
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 
-#EXTINF:-1 tvg-ID="60d3583ef310610007fb02b1" tvg-name="Euronews" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" group-title="NOTICIAS",Euronews
+#EXTINF:-1 tvg-ID="60d3583ef310610007fb02b1" tvg-name="Euronews" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/euronews.png" group-title="NOTICIAS",Euronews
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-ID="DWEspanol.de" tvg-name="DW ESPA?OL" tvg-logo="https://pbs.twimg.com/profile_images/900335405580550144/EpLMIlFW_400x400.jpg" group-title="NOTICIAS",DW ESPA?OL
+
+#EXTINF:-1 tvg-ID="DWEspanol.de" tvg-name="DW ESPA?OL" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/dw_espa%C3%B1ol.png" group-title="NOTICIAS",DW ESPA?OL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-ID="Canal24Horas.es" tvg-name="24 HORAS ESPAÑA" tvg-logo="https://pbs.twimg.com/profile_images/1148265181090320384/f9ieXgQL_400x400.png" group-title="NOTICIAS",24 HORAS ESPA?A
+
+#EXTINF:-1 tvg-ID="Canal24Horas.es" tvg-name="24 HORAS ESPAÑA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/24_horas_internacional.png" group-title="NOTICIAS",24 HORAS ESPA?A
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1 tvg-ID="ext" tvg-name="GALICIA TV" tvg-logo="https://i.imgur.com/VlWh3n6.png" group-title="NOTICIAS",GALICIA TV
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="GALICIA TV" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/galicia_tv_america.png" group-title="NOTICIAS",GALICIA TV
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 
 
-#EXTINF:-1 tvg-ID="324.es" tvg-name="3/24" tvg-logo="https://i.imgur.com/1rtWgqD.jpg" group-title="NOTICIAS",3/24
+#EXTINF:-1 tvg-ID="324.es" tvg-name="3/24" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/324_es.png" group-title="NOTICIAS",3/24
 https://directes-tv-int.ccma.cat/live-content/canal324-hls/master.m3u8
 
 
-#EXTINF:-1 tvg-ID="7NN.es" tvg-name="7NN Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1438490162279981060/yL69CGN9_200x200.jpg" group-title="NOTICIAS",7NN Noticias
+#EXTINF:-1 tvg-ID="7NN.es" tvg-name="7NN Noticias" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/7nn.png" group-title="NOTICIAS",7NN Noticias
 https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="ext" tvg-name="TV PerÚ Noticias" tvg-logo="https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200" group-title="NOTICIAS",TV Per? Noticias
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="TV PerÚ Noticias" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/tv_peru.png" group-title="NOTICIAS",TV Per? Noticias
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 
-#EXTINF:-1 tvg-ID="ext" tvg-name="HISPAN TV" tvg-logo="https://ichef.bbci.co.uk/news/640/amz/worldservice/live/assets/images/2012/01/31/120131193926_hispantv_logo_304x171__nocredit.jpg" group-title="NOTICIAS",HISPAN TV
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="HISPAN TV" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/hispan_tv.png" group-title="NOTICIAS",HISPAN TV
 https://live.presstv.ir/live/smil:live.smil/chunklist_w1431734816_b644100_slen.m3u8
 
-#EXTINF:-1 tvg-ID="ext" tvg-name="Ukraine 24 Ucrania" tvg-logo="https://graph.facebook.com/www.ukraine24.ua/picture?width=200&height=200" group-title="NOTICIAS",Ukraine 24 Ucrania
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Ukraine 24 Ucrania" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/ukraine24.jpg" group-title="NOTICIAS",Ukraine 24 Ucrania
 http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="RaiNews24.it" tvg-name="RAI NEWS" tvg-logo="hhttps://pbs.twimg.com/profile_images/1475448542227570690/5u-d7ggL_400x400.jpg" group-title="NOTICIAS",RAI NEWS
+
+#EXTINF:-1 tvg-ID="RaiNews24.it" tvg-name="RAI NEWS" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/rai_news_24.png" group-title="NOTICIAS",RAI NEWS
 https://pbs.twimg.com/profile_images/1475448542227570690/5u-d7ggL_400x400.jpg" group-title="NOTICIAS",RAI NEWS
 
-#EXTINF:-1 tvg-ID="CanalRural.ar" tvg-name="RURAL TV" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="NOTICIAS",RURAL TV
+
+#EXTINF:-1 tvg-ID="CanalRural.ar" tvg-name="RURAL TV" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/canal_rural.png" group-title="NOTICIAS",RURAL TV
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="ChacraTV.ar" tvg-name="CHACRA TV" tvg-logo="https://lh3.googleusercontent.com/-pKI6d5kptYI/XnDCiQcHe0I/AAAAAAAAw_Y/pjVT7LGqYmswBIePrX9PeXozB4UncbPEgCK8BGAsYHg/s0/2020-03-17.png" group-title="NOTICIAS",CHACRA TV
+
+#EXTINF:-1 tvg-ID="ChacraTV.ar" tvg-name="CHACRA TV" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/chacratv.png" group-title="NOTICIAS",CHACRA TV
 https://s8.stweb.tv/chacra/live/chunks.m3u8
 
 
-#EXTINF:-1 tvg-ID="ArgentinisimaSatelital.ar" tvg-name="ARGENTINISIMA SATELITAL" tvg-logo="https://pbs.twimg.com/profile_images/607708464257896448/1JrRLGLc_400x400.jpg" group-title="NOTICIAS",ARGENTINISIMA SATELITAL
+#EXTINF:-1 tvg-ID="ArgentinisimaSatelital.ar" tvg-name="ARGENTINISIMA SATELITAL" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/argentinisima_satelital.png" group-title="NOTICIAS",ARGENTINISIMA SATELITAL
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w859718981_b1912000_sleng.m3u8
 
-#EXTINF:-1 tvg-ID="ext" tvg-name="RADIO MITRE" tvg-logo="https://i.imgur.com/uvck4Vj.png" group-title="NOTICIAS",RADIO MITRE
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="RADIO MITRE" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/radio_mitre.png" group-title="NOTICIAS",RADIO MITRE
 https://g2.vxral-hor.transport.edge-access.net/a10/ngrp:MITREHD-10002_all/MITREHD-10002_720p.m3u8
 
-#EXTINF:-1 tvg-ID="ext" tvg-name="Telefe Noticias" tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" group-title="NOTICIAS",Telefe Noticias
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Telefe Noticias" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/telefe_noticias.png" group-title="NOTICIAS",Telefe Noticias
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745ec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-ID="ext" tvg-name="Chilevision Noticias" tvg-logo="https://images.pluto.tv/channels/61f94a2866401100074e9dee/colorLogoPNG.png" group-title="NOTICIAS",Chilevision Noticias
+
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Chilevision Noticias" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/chilevision_noticias.png" group-title="NOTICIAS",Chilevision Noticias
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f94a2866401100074e9dee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
 
 #EXTINF:-1 tvg-ID="NetTV.ar" tvg-name="NET TV 27.2" tvg-logo="https://pbs.twimg.com/profile_images/1075497247129911296/_RyuQ8I4_400x400.jpg" group-title="NACIONALES",NET TV 27.2
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+
+
 #EXTINF:-1 tvg-ID="Telemax.ar" tvg-name="TELEMAX  26.3" tvg-logo="https://pbs.twimg.com/profile_images/1083024133062123521/cHU8zOpn_400x400.jpg" group-title="NACIONALES",TELEMAX  26.3
 https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
 #EXTINF:-1 tvg-ID="Encuentro.ar" tvg-name="CANAL ENCUENTRO 22.1" tvg-logo="https://pbs.twimg.com/profile_images/1333395540478996480/oaQIEz2x_400x400.jpg" group-title="NACIONALES",CANAL ENCUENTRO 22.1
