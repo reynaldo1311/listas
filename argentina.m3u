@@ -112,9 +112,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745
 #EXTINF:-1 tvg-ID="ext" tvg-name="Chilevision Noticias" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/chilevision_noticias.png" group-title="NOTICIAS",Chilevision Noticias
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f94a2866401100074e9dee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-ID="NetTV.ar" tvg-name="NET TV" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/net_tv.png" group-title="NACIONALES",NET TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
-
+#EXTINF:-1 tvg-ID="NetTV.ar" tvg-name="NET TV" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/net_tv.png" group-title="NACIONALES",NET TV https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 
 #EXTINF:-1 tvg-ID="Telemax.ar" tvg-name="TELEMAX" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/telemax.png" group-title="NACIONALES",TELEMAX
 https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
