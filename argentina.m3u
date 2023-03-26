@@ -79,11 +79,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f94a2866401100074e9d
 #EXTINF:-1 tvg-ID="NetTV.ar" tvg-name="NET TV" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/net_tv.png" group-title="NACIONALES",NET TV https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 
 
-#EXTINF:-1 tvg-ID="Telemax.ar" tvg-name="TELEMAX  26.3" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/telemax.png" group-title="NACIONALES",TELEMAX  26.3
+#EXTINF:-1 tvg-ID="Telemax.ar" tvg-name="TELEMAX" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/telemax.png" group-title="NACIONALES",TELEMAX
 https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
 
 
-#EXTINF:-1 tvg-ID="Encuentro.ar" tvg-name="CANAL ENCUENTRO 22.1" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/encuentro.png" group-title="NACIONALES",CANAL ENCUENTRO 22.1
+#EXTINF:-1 tvg-ID="Encuentro.ar" tvg-name="CANAL ENCUENTRO" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/encuentro.png" group-title="NACIONALES",CANAL ENCUENTRO
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8  
 
 
