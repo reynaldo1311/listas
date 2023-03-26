@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/es/mi.tv.xml"
+
 #EXTINF:-1 tvg-ID="ext" tvg-name="EL DOCE CORDOBA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/el_doce.png" group-title="PRINCIPAL",EL DOCE CORDOBA 
 https://www.youtube.com/watch?v=eoL3NU7DFTw
 
