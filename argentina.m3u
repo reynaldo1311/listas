@@ -9,7 +9,7 @@ https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
 #EXTINF:-1 tvg-ID="ElTrece.ar" tvg-name="CANAL 13" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/canal_13.png" group-title="PRINCIPAL",CANAL 13 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-ID="AmericaTV.ar" tvg-name="América TV" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/america_tv.png" group-title="PRINCIPAL",América TV (720p) #EXTVLCOPT:http-user-agent=iPhone 
+#EXTINF:-1 tvg-ID="AmericaTV.ar" tvg-name="América TV" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/america_tv.png" group-title="PRINCIPAL",América TV #EXTVLCOPT:http-user-agent=iPhone 
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #EXTINF:-1 tvg-ID="ElNueve.ar" tvg-name="CANAL 9" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/el_nueve.png" group-title="PRINCIPAL",CANAL 9 
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
