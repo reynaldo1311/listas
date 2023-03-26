@@ -1,23 +1,30 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="ext" tvg-name="EL DOCE CORDOBA" tvg-logo="" group-title="FAVORITO",EL DOCE CORDOBA
-https://www.youtube.com/watch?v=gBbMbqILzXU    
-#EXTINF:-1 tvg-ID="TelefeCordoba.ar" tvg-name="TELEFE CORDOBA" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="FAVORITO",TELEFE CORDOBA
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="EL DOCE CORDOBA" tvg-logo="https://i.imgur.com/HfyKPpD.png" group-title="PRINCIPAL",EL DOCE CORDOBA
+https://www.youtube.com/watch?v=eoL3NU7DFTw
+
+
+#EXTINF:-1 tvg-ID="TelefeCordoba.ar" tvg-name="TELEFE CORDOBA" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="PRINCIPAL",TELEFE CORDOBA
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0159
-#EXTINF:-1 tvg-ID="Canal10Cordoba.ar" tvg-name="CANAL 10 CORDOBA" tvg-logo="https://lh3.googleusercontent.com/-1_p-RfF0oIo/XjtDhLIE25I/AAAAAAAAvpE/uzoG77Dzsp8PEzYtGkaBadawaE0ISWlywCK8BGAsYHg/s0/2020-02-05.png" group-title="FAVORITO",CANAL 10 CORDOBA
+
+
+#EXTINF:-1 tvg-ID="Canal10Cordoba.ar" tvg-name="CANAL 10 CORDOBA" tvg-logo="https://lh3.googleusercontent.com/-1_p-RfF0oIo/XjtDhLIE25I/AAAAAAAAvpE/uzoG77Dzsp8PEzYtGkaBadawaE0ISWlywCK8BGAsYHg/s0/2020-02-05.png" group-title="PRINCIPAL",CANAL 10 CORDOBA
 https://stream.arcast.live/canal10/ngrp:canal10_all/chunklist_w1696069620_b1408000.m3u8
-#EXTINF:-1 tvg-ID="Telefe.ar" tvg-name="TELEFE  34.1" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="FAVORITO",TELEFE  34.1
+
+
+#EXTINF:-1 tvg-ID="Telefe.ar" tvg-name="TELEFE  34.1" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="PRINCIPAL",TELEFE  34.1
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
-#EXTINF:-1 tvg-ID="ElTrece.ar" tvg-name="CANAL 13  33.1 " tvg-logo="https://pbs.twimg.com/profile_images/1344843564535132160/xT96d8Zv_400x400.jpg" group-title="FAVORITO",CANAL 13  33.1 
+#EXTINF:-1 tvg-ID="ElTrece.ar" tvg-name="CANAL 13  33.1 " tvg-logo="https://pbs.twimg.com/profile_images/1344843564535132160/xT96d8Zv_400x400.jpg" group-title="PRINCIPAL",CANAL 13  33.1 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-ID="AmericaTV.ar" tvg-name="AMERICA HD  36.1" tvg-logo="https://pbs.twimg.com/profile_images/1542249688925102088/MuU-yYt__400x400.png" group-title="FAVORITO",AMERICA HD  36.1
+#EXTINF:-1 tvg-ID="AmericaTV.ar" tvg-name="AMERICA HD  36.1" tvg-logo="https://pbs.twimg.com/profile_images/1542249688925102088/MuU-yYt__400x400.png" group-title="PRINCIPAL",AMERICA HD  36.1
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8 
-#EXTINF:-1 tvg-ID="ElNueve.ar" tvg-name="CANAL 9  35.1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="FAVORITO",CANAL 9  35.1
+#EXTINF:-1 tvg-ID="ElNueve.ar" tvg-name="CANAL 9  35.1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="PRINCIPAL",CANAL 9  35.1
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
-#EXTINF:-1 tvg-ID="TVPublica.ar" tvg-name="TV PUBLICA - 23.2" tvg-logo="https://pbs.twimg.com/profile_images/1458611383570993154/J-uHPy2t_400x400.jpg" group-title="FAVORITO",TV PUBLICA - 23.2
+#EXTINF:-1 tvg-ID="TVPublica.ar" tvg-name="TV PUBLICA - 23.2" tvg-logo="https://pbs.twimg.com/profile_images/1458611383570993154/J-uHPy2t_400x400.jpg" group-title="PRINCIPAL",TV PUBLICA - 23.2
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8 
-#EXTINF:-1 tvg-ID="TyCSports.ar" tvg-name="TyC SPORT " tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="FAVORITO",TyC SPORT 
+#EXTINF:-1 tvg-ID="TyCSports.ar" tvg-name="TyC SPORT " tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="PRINCIPAL",TyC SPORT 
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="CIUDAD MAGICA TV" tvg-logo="https://play-lh.googleusercontent.com/SxFDTWadD_WzvUOKUlPc0n7ZS20-Gatw3OSr1WY2zyuBxZClf2aomcpg9EoVuYZHuHI" group-title="FAVORITO",CIUDAD MAGICA TV
+#EXTINF:-1 tvg-ID="ext" tvg-name="CIUDAD MAGICA TV" tvg-logo="https://play-lh.googleusercontent.com/SxFDTWadD_WzvUOKUlPc0n7ZS20-Gatw3OSr1WY2zyuBxZClf2aomcpg9EoVuYZHuHI" group-title="PRINCIPAL",CIUDAD MAGICA TV
 https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="IP  24.5" tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="NOTICIAS",IP  24.5
 https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
