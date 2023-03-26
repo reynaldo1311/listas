@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="ext" tvg-name="EL DOCE CORDOBA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/el_doce.png" group-title="PRINCIPAL",EL DOCE CORDOBA
-https://www.youtube.com/watch?v=eoL3NU7DFTw
+#EXTINF:-1 tvg-ID="ext" tvg-name="EL DOCE CORDOBA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/el_doce.png" group-title="PRINCIPAL",EL DOCE CORDOBA https://www.youtube.com/watch?v=eoL3NU7DFTw
 
 
 #EXTINF:-1 tvg-ID="TelefeCordoba.ar" tvg-name="TELEFE CORDOBA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/telefe_cordoba.png" group-title="PRINCIPAL",TELEFE CORDOBA http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0159
