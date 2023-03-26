@@ -10,7 +10,12 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1 tvg-ID="ElTrece.ar" tvg-name="CANAL 13  33.1 " tvg-logo="https://pbs.twimg.com/profile_images/1344843564535132160/xT96d8Zv_400x400.jpg" group-title="PRINCIPAL",CANAL 13  33.1 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-ID="AmericaTV.ar" tvg-name="AMERICA HD  36.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/América_TV_(Nuevo_logo_Junio_2020).png/512px-América_TV_(Nuevo_logo_Junio_2020).png" group-title="PRINCIPAL",AMERICA HD  36.1
-https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/a3366964-4496-4408-b900-6a2343d69fb9:SCL/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8
+user-agent="iPhone",AmÃ©rica TV (720p)
+#EXTVLCOPT:http-user-agent=iPhone
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+
+
+
 #EXTINF:-1 tvg-ID="ElNueve.ar" tvg-name="CANAL 9  35.1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="PRINCIPAL",CANAL 9  35.1
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 
