@@ -5,7 +5,7 @@
 https://www.youtube.com/watch?v=eoL3NU7DFTw
 
 #EXTINF:-1 tvg-ID="TelefeCordoba.ar" tvg-name="TELEFE CORDOBA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/telefe_cordoba.png" group-title="PRINCIPAL",TELEFE CORDOBA 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0159
+https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/master.m3u8?hdnea=st=1679936020~exp=1680112420~acl=/hls/live/2040462/canal8cordoba/TOK/*~hmac=d776c8d13dd541013ca60524e63cd742ec5e66592ac800cd7306cde4a26474ab
 
 #EXTINF:-1 tvg-ID="Canal10Cordoba.ar" tvg-name="CANAL 10 CORDOBA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/canal_10.png" group-title="PRINCIPAL",CANAL 10 CORDOBA 
 https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
