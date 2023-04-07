@@ -215,8 +215,7 @@ http://190.83.119.67:8000/play/a00n/index.m3u8
 http://190.83.119.67:8000/play/a03z/index.m3u8
 #EXTINF:-1,Pasiones HD
 http://190.83.119.67:8000/play/a043/index.m3u8
-#EXTINF:-1,Playboy
-http://190.83.119.67:8000/play/a00u/index.m3u8
+
 #EXTINF:-1,RCN Novelas
 http://190.83.119.67:8000/play/a02b/index.m3u8
 #EXTINF:-1,SEMILLITAS
@@ -297,8 +296,7 @@ http://190.83.119.67:8000/play/a03o/index.m3u8
 http://190.83.119.67:8000/play/a03p/index.m3u8
 #EXTINF:-1,Univision HD
 http://190.83.119.67:8000/play/a044/index.m3u8
-#EXTINF:-1,VENUS
-http://190.83.119.67:8000/play/a02q/index.m3u8
+
 #EXTINF:-1,WARNER HD
 http://190.83.119.67:8000/play/a039/index.m3u8
 #EXTINF:-1,Warner
