@@ -353,6 +353,28 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS TNT Sports 5 Brasil" tvg-logo="http://www.latinspots.com/files/notas/Gnota_56697.jpg" group-title="EVENTOS DEPORTIVOS",EVENTOS TNT Sports 5 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS AFA Play 1" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="EVENTOS DEPORTIVOS",EVENTOS AFA Play 1
+https://dnffo1bekrsbw.cloudfront.net/out/v1/7912575117534c7485ba6233d0bda42a/index.m3u8
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS AFA Play 2" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="EVENTOS DEPORTIVOS",EVENTOS AFA Play 2
+https://d2w3vqtzipao6c.cloudfront.net/out/v1/d2486b9151a249358f61acc5927d59ee/index.m3u8
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS AFA Play 3" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="EVENTOS DEPORTIVOS",EVENTOS AFA Play 3
+https://d1x82plc04l3xw.cloudfront.net/out/v1/3a15096b0d7844dca7d5f230fc3f4dee/index.m3u8
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS AFA Play 4" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="EVENTOS DEPORTIVOS",EVENTOS AFA Play 4
+https://dnffo1bekrsbw.cloudfront.net/out/v1/7912575117534c7485ba6233d0bda42a/index.m3u8
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS AFA Play 5" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="EVENTOS DEPORTIVOS",EVENTOS AFA Play 5
+https://d1x82plc04l3xw.cloudfront.net/out/v1/3a15096b0d7844dca7d5f230fc3f4dee/index.m3u8
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS AFA Play 6" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="EVENTOS DEPORTIVOS",EVENTOS AFA Play 6
+https://d12s4cghcpi6v.cloudfront.net/out/v1/ccbf0a6b9a4e41e2b71a3c4a9915671b/index.m3u8
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS AFA Play 7" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="EVENTOS DEPORTIVOS",EVENTOS AFA Play 7
+https://d12s4cghcpi6v.cloudfront.net/out/v1/ccbf0a6b9a4e41e2b71a3c4a9915671b/index.m3u8
+
 #EXTINF:-1 tvg-ID="ext" tvg-name="Deportes" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="EVENTOS DEPORTIVOS",Deportes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-ID="ext" tvg-name="Peleas" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" group-title="EVENTOS DEPORTIVOS",Peleas
