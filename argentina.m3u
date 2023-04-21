@@ -43,7 +43,7 @@ https://www.youtube.com/watch?v=InSydaLSSlw
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8
 
 #EXTINF:-1 tvg-ID="A24.ar" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/a24.png" group-title="NOTICIAS",A24 
-https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/030a54f7-9646-4950-95f5-687d8b4f54e6:SCL/master.m3u8
 
 #EXTINF:-1 tvg-ID="TN.ar" tvg-name="TODO NOTICIAS" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/tn.png" group-title="NOTICIAS",TODO NOTICIAS 
 https://www.youtube.com/watch?v=6hWHWGJ1Gbw
