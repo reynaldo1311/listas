@@ -1,0 +1,69 @@
+#EXTM3U
+
+#EXTINF:-1,Acción
+https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,Comedia
+https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,Drama
+https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,Spotlight
+https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,VERDI TV
+https://contracorriente-canalcinesverdi-1-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,Feel Good
+https://contracorriente-canalfeelgood-1-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,RUN:TIME
+https://runtimeespana-samsungspain.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,MY TIME MOVIE NETWORK
+https://appletree-mytimespain-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,BUTACA TV
+https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,RAKUTEN FAMILIA
+https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,HOLA
+https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Comedy
+https://rakuten-comedymovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,Action
+https://rakuten-actionmovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,Spotlight
+https://rakuten-spotlight-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,Topfree
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Drama
+https://rakuten-tvshows-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,People Awesome
+https://jukin-peopleareawesome-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,ALCHIMIE UNE EARTH
+https://alchimie-unearth-3-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,INWONDER
+https://inwonder-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,INTROUBLE
+https://introuble-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1,MY TIME movie network españa
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+MY TIME movie network mejico
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Love Nature
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
