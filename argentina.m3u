@@ -1226,7 +1226,7 @@ https://streamcasthd.com:1936/fmvanguardiatv/fmvanguardiatv/playlist.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="RADIO SAN JORGE 96.5 FM CALETA OLIVIA" tvg-logo="https://www.radiosanjorge.com.ar/wp-content/uploads/2014/12/logonuevo-1.png" group-title="SANTA CRUZ",RADIO SAN JORGE 96.5 FM CALETA OLIVIA
 https://vivo.solumedia.com:19360/radiosanjorge/radiosanjorge.m3u8
 #EXTINF:-1 tvg-ID="TelefeRosario.ar" tvg-name="TELEFE ROSARIO " tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="SANTA FE",TELEFE ROSARIO 
-https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/hdntl=exp=1684621072~acl=%2f*~data=hdntl~hmac=b4befbfc396f477c4a9e6ff577dacfb1a24c4641b60ffc054eb6f8f29493b206/canal5rosario0.m3u8
+https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/master.m3u8?hdnea=st=1684531761~exp=1684708161~acl=/hls/live/2033413-b/canal5rosario/TOK/*~hmac=cf2d2d9a4c29f0191b6e86143694aa26b8d26210e9fc154d4d1ad2b93ac2e0f9
 #EXTINF:-1 tvg-ID="TelefeSantaFe.ar" tvg-name="TELEFE SANTA FE" tvg-logo="https://pbs.twimg.com/profile_images/1287857707756728322/DacVsXh-_400x400.jpg" group-title="SANTA FE",TELEFE SANTA FE
 https://telefecanal1.akamaized.net/hls/live/2033413/canal13santafe/TOK/hdntl=exp=1684621351~acl=%2f*~data=hdntl~hmac=f7c2c77d87b59737b803eb6f00dde7b5db2e4ff64c0ed4b990f37a44aa95daa4/master0.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="CANAL 3 ROSARIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCbsG_5lOKcWAENfOGqnua-MTnwl2Y908bZBlFMgs-HzUXQy2PkOaV-BFAilWDjJlbfg&usqp=CAU" group-title="SANTA FE",CANAL 3 ROSARIO
