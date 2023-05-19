@@ -1060,7 +1060,7 @@ https://5cbda9ff89c34.streamlock.net/TvGiga1055/TvGiga1055/playlist.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="FM ARGENTINA 98.9 NEUQUEN" tvg-logo="http://www.fmargentina.com.ar/Graficos/intro.png" group-title="NEUQUEN",FM ARGENTINA 98.9 NEUQUEN
 https://stmv1.srvstm.com/fmargentina/fmargentina/playlist.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TELEFE BAHIA BLANCA" tvg-logo="https://pbs.twimg.com/profile_images/1065218196142284801/bzqyl5rf_400x400.jpg" group-title="PCIA BS AS",TELEFE BAHIA BLANCA
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0091
+https://telefecanal2.akamaized.net/hls/live/2033414/canal9bahiablanca/TOK/hdntl=exp=1684621417~acl=%2f*~data=hdntl~hmac=02803ecf314f3052fa26875558adfcd4fbe410c8bd080161ed144e0da930483a/canal9bahiablanca0.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="CANAL 10 MAR DEL PLATA" tvg-logo="https://pbs.twimg.com/profile_images/1530202961980301318/LRPDjzo-_400x400.jpg" group-title="PCIA BS AS",CANAL 10 MAR DEL PLATA
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="CANAL 2 MAR DEL PLATA" tvg-logo="https://pbs.twimg.com/profile_images/735615592665776128/usyzdWVo_400x400.jpg" group-title="PCIA BS AS",CANAL 2 MAR DEL PLATA
@@ -1226,9 +1226,9 @@ https://streamcasthd.com:1936/fmvanguardiatv/fmvanguardiatv/playlist.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="RADIO SAN JORGE 96.5 FM CALETA OLIVIA" tvg-logo="https://www.radiosanjorge.com.ar/wp-content/uploads/2014/12/logonuevo-1.png" group-title="SANTA CRUZ",RADIO SAN JORGE 96.5 FM CALETA OLIVIA
 https://vivo.solumedia.com:19360/radiosanjorge/radiosanjorge.m3u8
 #EXTINF:-1 tvg-ID="TelefeRosario.ar" tvg-name="TELEFE ROSARIO " tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="SANTA FE",TELEFE ROSARIO 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0295
+https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/hdntl=exp=1684621072~acl=%2f*~data=hdntl~hmac=b4befbfc396f477c4a9e6ff577dacfb1a24c4641b60ffc054eb6f8f29493b206/canal5rosario0.m3u8
 #EXTINF:-1 tvg-ID="TelefeSantaFe.ar" tvg-name="TELEFE SANTA FE" tvg-logo="https://pbs.twimg.com/profile_images/1287857707756728322/DacVsXh-_400x400.jpg" group-title="SANTA FE",TELEFE SANTA FE
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0301
+https://telefecanal1.akamaized.net/hls/live/2033413/canal13santafe/TOK/hdntl=exp=1684621351~acl=%2f*~data=hdntl~hmac=f7c2c77d87b59737b803eb6f00dde7b5db2e4ff64c0ed4b990f37a44aa95daa4/master0.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="CANAL 3 ROSARIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCbsG_5lOKcWAENfOGqnua-MTnwl2Y908bZBlFMgs-HzUXQy2PkOaV-BFAilWDjJlbfg&usqp=CAU" group-title="SANTA FE",CANAL 3 ROSARIO
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="CANAL LUZ" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/9730866.jpg" group-title="SANTA FE",CANAL LUZ
