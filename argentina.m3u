@@ -355,16 +355,16 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS LPF Play 1" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",EVENTOS LPF Play 1
-https://d21deohos06u2t.cloudfront.net/out/v1/30852f926a904f3c88f5653fafb27e2f/index_5.m3u8
-
-#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS LPF Play 2" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",EVENTOS LPF Play 2
 https://d28q0dll3fo7ay.cloudfront.net/out/v1/2370f106ad21496cbf41edf4aa88c2e4/index.m3u8
 
+#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS LPF Play 2" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",EVENTOS LPF Play 2
+https://d21deohos06u2t.cloudfront.net/out/v1/30852f926a904f3c88f5653fafb27e2f/index.m3u8
+
 #EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS LPF Play 3" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",EVENTOS LPF Play 3
-https://d1x82plc04l3xw.cloudfront.net/out/v1/3a15096b0d7844dca7d5f230fc3f4dee/index.m3u8
+https://dnffo1bekrsbw.cloudfront.net/out/v1/7912575117534c7485ba6233d0bda42a/index.m3u8
 
 #EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS LPF Play 4" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",EVENTOS LPF Play 4
-https://dnffo1bekrsbw.cloudfront.net/out/v1/7912575117534c7485ba6233d0bda42a/index.m3u8
+https://d1x82plc04l3xw.cloudfront.net/out/v1/3a15096b0d7844dca7d5f230fc3f4dee/index.m3u8
 
 #EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS LPF Play 5" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",EVENTOS LPF Play 5
 https://d1x82plc04l3xw.cloudfront.net/out/v1/3a15096b0d7844dca7d5f230fc3f4dee/index.m3u8
