@@ -17,7 +17,6 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 tvg-ID="AmericaTV.ar" tvg-name="América TV" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/america_tv.png" group-title="PRINCIPAL",América TV (720p) 
-
 #EXTVLCOPT:http-user-agent=iPhone 
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
@@ -55,8 +54,11 @@ https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="IP" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/ip_noticias.png" group-title="NOTICIAS",IP 
 https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 
-#EXTINF:-1 tvg-ID="CronicaTV.ar" tvg-name="Cronica HD" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/cronica_tv.png" group-title="NOTICIAS",CRONICA HD 
+#EXTINF:-1 tvg-ID="CronicaTV.ar (YT)" tvg-name="Cronica HD" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/cronica_tv.png" group-title="NOTICIAS",CRONICA HD 
 https://www.youtube.com/watch?v=InSydaLSSlw
+
+#EXTINF:-1 tvg-ID="CronicaTV.ar (720p)" tvg-name="Cronica HD" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/cronica_tv.png" group-title="NOTICIAS",CRONICA HD 
+https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
 
 #EXTINF:-1 tvg-ID="DiputadosTV.ar" tvg-name="DIPUTADOS TV" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/dtv.png" group-title="NOTICIAS",DIPUTADOS TV
 https://www.youtube.com/watch?v=Gq6MIaZ501A
@@ -179,11 +181,14 @@ https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="RakutenTVDramaMoviesSpain.es" tvg-name="RAKUTEN TV DRAMA" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="CINE",RAKUTEN TV DRAMA
-https://3de281cc31cf4835a3769dd13743f40c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenTVShows/playlist.m3u8?ads.wurl_channel=429&ads.wurl_name=RakutenTVShows&ads.psid={PSID}&ads.targetopt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.coppa=0&ads.consent={TC_STRING}
+https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-ID="RakutenTVFamilyMoviesSpain.es" tvg-name="RAKUTEN FAMILIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFHqSBqRR5mzPCZ5RZitMnBzGjM6KiHwiTFF1I4FdTHPQ5NPgp_xvBGFqMZexy0Y26sQ&usqp=CAU" group-title="CINE",RAKUTEN FAMILIA
-https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8?ads.wurl_channel=718&ads.wurl_name=RakutenFamily&ads.coppa=1&ads.psid={PSID}&ads.targetopt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.consent={TC_STRING}
+https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-ID="RakutenTVSpotlightSpain.es" tvg-name="RAKUTEN SPOTLIGHT" tvg-logo="https://i.imgur.com/qgYRzl1.jpg" group-title="CINE",RAKUTEN SPOTLIGHT
 https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-ID="RakutenTVTopMoviesSpain.es" tvg-name="RAKUTEN TOP FREE" tvg-logo="https://pbs.twimg.com/profile_images/1412648952134914051/38fp6fQm.jpg" group-title="CINE",RAKUTEN TOP FREE
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
