@@ -16,6 +16,10 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1 tvg-ID="ElTrece.ar" tvg-name="CANAL 13" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/canal_13.png" group-title="PRINCIPAL",CANAL 13 
 https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v3a1/mono.m3u8
 
+#EXTINF:-1 tvg-ID="ElTrece.ar" tvg-name="CANAL 13" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/canal_13.png" group-title="PRINCIPAL",CANAL 13 
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+
+
 #EXTINF:-1 tvg-ID="AmericaTV.ar" tvg-name="América TV" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/america_tv.png" group-title="PRINCIPAL",América TV (720p) 
 #EXTVLCOPT:http-user-agent=iPhone 
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
@@ -32,14 +36,18 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 #EXTINF:-1 tvg-ID="LaNacionPlus.ar" tvg-name="LN+" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/la_nacion_plus.png" group-title="NOTICIAS",LN+ 
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="News" user-agent="iPhone",A24 (720p)
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="NOTICIAS" user-agent="iPhone",A24 (720p)
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
-#EXTINF:-1 tvg-ID="A24.ar(YT)" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/a24.png" group-title="NOTICIAS",A24 
+#EXTINF:-1 tvg-ID="A24.ar" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/a24.png" group-title="NOTICIAS",A24 (YT) 
 https://www.youtube.com/watch?v=QGpHLgRnrx4
 
-#EXTINF:-1 tvg-ID="TN.ar" tvg-name="TODO NOTICIAS" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/tn.png" group-title="NOTICIAS",TODO NOTICIAS 
+#EXTINF:-1 tvg-ID="TN.ar" tvg-name="TODO NOTICIAS" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/tn.png" group-title="NOTICIAS",TODO NOTICIAS (YT) 
+https://live-01-01-tn.vodgc.net/TN24/tracks-v4a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-ID="TN.ar" tvg-name="TODO NOTICIAS" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/tn.png" group-title="NOTICIAS",TODO NOTICIAS (YT) 
 https://www.youtube.com/watch?v=HPiv1pzIPRc
 
 #EXTINF:-1 tvg-ID="Canal26.ar" tvg-name="CANAL 26" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/canal_26.png" group-title="NOTICIAS",CANAL 26 
@@ -54,10 +62,10 @@ https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="IP" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/ip_noticias.png" group-title="NOTICIAS",IP 
 https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 
-#EXTINF:-1 tvg-ID="CronicaTV.ar (YT)" tvg-name="Cronica HD" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/cronica_tv.png" group-title="NOTICIAS",CRONICA HD 
+#EXTINF:-1 tvg-ID="CronicaTV.ar" tvg-name="Cronica HD" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/cronica_tv.png" group-title="NOTICIAS",CRONICA HD (720p) 
 https://www.youtube.com/watch?v=InSydaLSSlw
 
-#EXTINF:-1 tvg-ID="CronicaTV.ar (720p)" tvg-name="Cronica HD" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/cronica_tv.png" group-title="NOTICIAS",CRONICA HD 
+#EXTINF:-1 tvg-ID="CronicaTV.ar" tvg-name="Cronica HD" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/cronica_tv.png" group-title="NOTICIAS",CRONICA HD (YT)
 https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
 
 #EXTINF:-1 tvg-ID="DiputadosTV.ar" tvg-name="DIPUTADOS TV" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/dtv.png" group-title="NOTICIAS",DIPUTADOS TV
@@ -376,7 +384,7 @@ https://dnffo1bekrsbw.cloudfront.net/out/v1/7912575117534c7485ba6233d0bda42a/ind
 https://d1x82plc04l3xw.cloudfront.net/out/v1/3a15096b0d7844dca7d5f230fc3f4dee/index.m3u8
 
 #EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS LPF Play 5" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",EVENTOS LPF Play 5
-https://d1x82plc04l3xw.cloudfront.net/out/v1/3a15096b0d7844dca7d5f230fc3f4dee/index.m3u8
+https://d2b4m328oi58vn.cloudfront.net/out/v1/4b6f958243c745d3b3e19ac862d703c2/index.m3u8
 
 #EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS LPF Play 6" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",EVENTOS LPF Play 6
 https://d12s4cghcpi6v.cloudfront.net/out/v1/ccbf0a6b9a4e41e2b71a3c4a9915671b/index.m3u8
