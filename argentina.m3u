@@ -27,6 +27,9 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 #EXTINF:-1 tvg-ID="ElNueve.ar" tvg-name="CANAL 9" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/el_nueve.png" group-title="PRINCIPAL",CANAL 9 
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 
+#EXTINF:-1 tvg-ID="ElNueve.ar" tvg-name="CANAL 9" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/el_nueve.png" group-title="PRINCIPAL",CANAL 9 (YT) 
+https://www.youtube.com/watch?v=HNNSYYmP7qs
+
 #EXTINF:-1 tvg-ID="TVPublica.ar" tvg-name="TV PÚBLICA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/tvpublica.png" group-title="PRINCIPAL",TV PÚBLICA 
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
@@ -43,7 +46,7 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 #EXTINF:-1 tvg-ID="A24.ar" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/a24.png" group-title="NOTICIAS",A24 (YT) 
 https://www.youtube.com/watch?v=QGpHLgRnrx4
 
-#EXTINF:-1 tvg-ID="TN.ar" tvg-name="TODO NOTICIAS" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/tn.png" group-title="NOTICIAS",TODO NOTICIAS (YT) 
+#EXTINF:-1 tvg-ID="TN.ar" tvg-name="TODO NOTICIAS" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/tn.png" group-title="NOTICIAS",TODO NOTICIAS 
 https://live-01-01-tn.vodgc.net/TN24/tracks-v4a1/mono.m3u8
 
 
