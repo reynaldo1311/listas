@@ -3,26 +3,35 @@
 
 #EXTINF:-1 tvg-ID="ext" tvg-name="EL DOCE CORDOBA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/el_doce.png" group-title="PRINCIPAL",EL DOCE CORDOBA 
 https://www.youtube.com/watch?v=eoL3NU7DFTw
-#EXTINF:-1 tvg-ID="TelefeCordoba.ar" tvg-name="TELEFE CORDOBA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/telefe_cordoba.png" group-title="PRINCIPAL",TELEFE CORDOBA 
-https://telefecanal3.akamaized.net/hls/live/2040462/cana
-l8cordoba/TOK/master.m3u8?hdnea=st=1686413211~exp=1686589611~acl=/hls/live/2040462/canal8cordoba/TOK/*~hmac=2b4b66ce1c075d622096dc3742ec8f377270c2e1aa49fc61c2daa1cd8ed65ca3
+
+#EXTINF:-1 tvg-ID="TelefeCordoba.ar" tvg-name="TELEFE CORDOBA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/telefe_cordoba.png" group-title="PRINCIPAL",TELEFE CORDOBA (YT) 
+https://www.youtube.com/watch?v=haPvnMEPioI
+
 #EXTINF:-1 tvg-ID="Canal10Cordoba.ar" tvg-name="CANAL 10 CORDOBA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/canal_10.png" group-title="PRINCIPAL",CANAL 10 CORDOBA 
-https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
+https://stream.arcast.net:4443/canal10/ngrp:canal10_all/chunklist_w1333416643_b2486272.m3u8
+
 #EXTINF:-1 tvg-ID="Telefe.ar" tvg-name="TELEFE" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/telefe.png" group-title="PRINCIPAL",TELEFE 
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
+
 #EXTINF:-1 tvg-ID="ElTrece.ar" tvg-name="CANAL 13" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/canal_13.png" group-title="PRINCIPAL",CANAL 13 (1)
 https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v3a1/mono.m3u8
+
 #EXTINF:-1 tvg-ID="ElTrece.ar" tvg-name="CANAL 13" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/canal_13.png" group-title="PRINCIPAL",CANAL 13 (2) 
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+
 #EXTINF:-1 tvg-ID="AmericaTV.ar" tvg-name="América TV" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/america_tv.png" group-title="PRINCIPAL",América TV (720p) 
 #EXTVLCOPT:http-user-agent=iPhone 
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+
 #EXTINF:-1 tvg-ID="ElNueve.ar" tvg-name="CANAL 9" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/el_nueve.png" group-title="PRINCIPAL",CANAL 9 
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
+
 #EXTINF:-1 tvg-ID="ElNueve.ar" tvg-name="CANAL 9" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/el_nueve.png" group-title="PRINCIPAL",CANAL 9 (YT) 
 https://www.youtube.com/watch?v=HNNSYYmP7qs
+
 #EXTINF:-1 tvg-ID="TVPublica.ar" tvg-name="TV PÚBLICA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/tvpublica.png" group-title="PRINCIPAL",TV PÚBLICA 
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+
 #EXTINF:-1 tvg-ID="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/tyc_sports.png" group-title="PRINCIPAL",TyC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 
