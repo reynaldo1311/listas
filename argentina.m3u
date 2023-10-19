@@ -328,12 +328,11 @@ https://d2b4m328oi58vn.cloudfront.net/out/v1/4b6f958243c745d3b3e19ac862d703c2/in
 #EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS LPF Play 6" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",EVENTOS LPF Play 6
 https://d35ft96448qn3i.cloudfront.net/out/v1/d3e020e33a554f67919b2c3061a306a6/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS LPF Play 7" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",EVENTOS LPF Play 7
-https://d12s4cghcpi6v.cloudfront.net/out/v1/ccbf0a6b9a4e41e2b71a3c4a9915671b/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS LPF Play 8" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",EVENTOS LPF Play 7
 https://d2w3vqtzipao6c.cloudfront.net/out/v1/d2486b9151a249358f61acc5927d59ee/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS LPF Play 9" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",EVENTOS LPF Play 7
+#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS LPF Play 7" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",EVENTOS LPF Play 8
 https://d21o7nxsrl4qau.cloudfront.net/out/v1/e434478daec6458898cd3b7503a8bcfe/index.m3u8
-
+#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS LPF Play 9" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",EVENTOS LPF Play 9
+https://d12s4cghcpi6v.cloudfront.net/out/v1/ccbf0a6b9a4e41e2b71a3c4a9915671b/index.m3u8
 
 #EXTINF:-1 tvg-ID="ext" tvg-name="Deportes" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="DEPORTE",Deportes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
