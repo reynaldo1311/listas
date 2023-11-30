@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml,https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/en/plex.tv.xml,https://iptv-org.github.io/epg/guides/en/xumo.tv.xml,https://iptv-org.github.io/epg/guides/es/cableplus.com.uy.xml,https://iptv-org.github.io/epg/guides/es/compulms.com.xml,https://iptv-org.github.io/epg/guides/es/directv.com.ar.xml,https://iptv-org.github.io/epg/guides/es/directv.com.uy.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml"
 
 
-#EXTINF:-1 tvg-ID="ext" tvg-name="EL DOCE CORDOBA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/el_doce.png" group-title="PRINCIPAL",EL DOCE CORDOBA 
+#EXTINF:-1 tvg-ID="ext" tvg-name="EL DOCE CORDOBA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/el_doce.png" group-title="PRINCIPAL",EL DOCE CORDOBA (YT) 
 https://www.youtube.com/watch?v=lZgz9ZV6mAU
 
 #EXTINF:-1 tvg-ID="TelefeCordoba.ar" tvg-name="TELEFE CORDOBA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/telefe_cordoba.png" group-title="PRINCIPAL",TELEFE CORDOBA (YT) 
