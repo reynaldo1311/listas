@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=HNNSYYmP7qs
 #EXTINF:-1 tvg-ID="TVPublica.ar" tvg-name="TV PÚBLICA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/tvpublica.png" group-title="PRINCIPAL",TV PÚBLICA 
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
-#EXTINF:-1 tvg-ID="TyCSPORTSs.ar" tvg-name="TyC SPORTS" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/tyc_SPORTSs.png" group-title="PRINCIPAL",TyC SPORTSs
+#EXTINF:-1 tvg-ID="TyCSPORTS.ar" tvg-name="TyC SPORTS" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/tyc_sports.png" group-title="PRINCIPAL",TyC SPORTSs
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 
 
