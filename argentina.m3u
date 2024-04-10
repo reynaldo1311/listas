@@ -2,10 +2,10 @@
 
 
 #EXTINF:-1 tvg-ID="ext" tvg-name="EL DOCE CORDOBA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/el_doce.png" group-title="PRINCIPAL",EL DOCE CORDOBA (YT) 
-https://www.youtube.com/watch?v=lZgz9ZV6mAU
+https://www.youtube.com/watch?v=sFZe_RPnNSo
 
-#EXTINF:-1 tvg-ID="TelefeCordoba.ar" tvg-name="TELEFE CORDOBA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/telefe_cordoba.png" group-title="PRINCIPAL",TELEFE CORDOBA (YT) 
-https://www.youtube.com/watch?v=sJO73kpN3Bc
+#EXTINF:-1 tvg-ID="TelefeCordoba.ar" tvg-name="TELEFE CORDOBA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/telefe_cordoba.png" group-title="PRINCIPAL",TELEFE CORDOBA 
+https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/hdntl=exp=1712846018~acl=%2f*~data=hdntl~hmac=5e1f8443f466f20cf89a1c07a4a6603e2a43e4169d37236a51ecaefb27436956/Canal8cordoba0.m3u8
 
 #EXTINF:-1 tvg-ID="Canal10Cordoba.ar" tvg-name="CANAL 10 CORDOBA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/canal_10.png" group-title="PRINCIPAL",CANAL 10 CORDOBA 
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/chunklist_w1333416643_b2486272.m3u8
@@ -20,8 +20,8 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTVLCOPT:http-user-agent=iPhone 
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
-#EXTINF:-1 tvg-ID="ElNueve.ar" tvg-name="CANAL 9 YT" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/el_nueve.png" group-title="PRINCIPAL",CANAL 9 (YT) 
-https://www.youtube.com/watch?v=HNNSYYmP7qs
+#EXTINF:-1 tvg-ID="ElNueve.ar" tvg-name="CANAL 9" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/el_nueve.png" group-title="PRINCIPAL",CANAL 9
+https://usher.ttvnw.net/api/channel/hls/elnuevevivo.m3u8?acmb=e30%3D&allow_source=true&browser_family=firefox&browser_version=124.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=3787582&parent_domains=twitchplayer&platform=web&play_session_id=32fff77031d3897a5d89fd8d82aa4993&player_backend=mediaplayer&player_version=1.27.0-rc.2.3&playlist_include_framerate=true&reassignments_supported=true&sig=392820add2e9ae1d123807e6d06290370aa42286&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22elnuevevivo%22%2C%22channel_id%22%3A1004061179%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22ea5378defd9ed09c%22%2C%22expires%22%3A1712760908%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22186.12.184.179%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
 
 #EXTINF:-1 tvg-ID="TVPublica.ar" tvg-name="TV PÚBLICA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/tvpublica.png" group-title="PRINCIPAL",TV PÚBLICA 
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
@@ -44,7 +44,7 @@ https://www.youtube.com/watch?v=IZj4NNDK-PE
 https://www.youtube.com/watch?v=Tqwhq_8QAGk
 #EXTINF:-1 tvg-ID="ext" tvg-name="CIUDAD MAGICA TV" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/ciudad_magica.png" group-title="PRINCIPAL",CIUDAD MAGICA TV 
 https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="IP" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/ip_noticias.png" group-title="NOTICIAS",IP 
+#EXTINF:-1 tvg-ID="ext" tvg-name="IP" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/ip_noticias.png" group-title="NOTICIAS",IP (YT) 
 https://www.youtube.com/watch?v=HTkRWgGltQw
 #EXTINF:-1 tvg-ID="CronicaTV.ar" tvg-name="Cronica HD" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/cronica_tv.png" group-title="NOTICIAS",CRONICA HD (YT)
 https://www.youtube.com/watch?v=avly0uwZzOE
@@ -53,9 +53,9 @@ https://www.youtube.com/watch?v=Gq6MIaZ501A
 #EXTINF:-1 tvg-ID="KZO.ar" tvg-name="KZO" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/kzo.png" group-title="NOTICIAS",KZO (YT)
 https://www.youtube.com/watch?v=ew8qg_rHeKc
 #EXTINF:-1 tvg-ID="Telesur.ve" tvg-name="TELESUR" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/telesur.png" group-title="NOTICIAS",TELESUR 
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/audio/chunklist.m3u8
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:-1 tvg-ID="RTEspanol.ru" tvg-name="Russia Today" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/russia-today.png" group-title="NOTICIAS",Russia Today 
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-ID="60d3583ef310610007fb02b1" tvg-name="Euronews" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/euronews.png" group-title="NOTICIAS",Euronews
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-ID="DWEspanol.de" tvg-name="DW ESPAÑOL" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/dw_español.png" group-title="NOTICIAS",DW Español
@@ -278,9 +278,9 @@ https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/in
 #EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS TyC SPORTS PLAY 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",EVENTOS TyC SPORTS PLAY 4
 https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS TyC SPORTS PLAY 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",EVENTOS TyC SPORTS PLAY 5
-https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS TyC SPORTS PLAY 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",EVENTOS TyC SPORTS PLAY 6
 https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS TyC SPORTS PLAY 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",EVENTOS TyC SPORTS PLAY 6
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS TyC SPORTS PLAY 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",EVENTOS TyC SPORTS PLAY 7
 https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS TyC SPORTS PLAY 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",EVENTOS TyC SPORTS PLAY 8
