@@ -31,17 +31,16 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 
 
 #EXTINF:-1 tvg-ID="LaNacionPlus.ar" tvg-name="LN+ YT" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/la_nacion_plus.png" group-title="NOTICIAS",LN+ (YT) 
-https://www.youtube.com/watch?v=4e8Iw3Frf1A
-
+https://www.youtube.com/watch?v=LY2XEQ_SSXA
 #EXTINF:-1 tvg-ID="A24.ar" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/a24.png" group-title="NOTICIAS",A24 (YT) 
 https://www.youtube.com/watch?v=QGpHLgRnrx4
 #EXTINF:-1 tvg-ID="TN.ar" tvg-name="TODO NOTICIAS" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/tn.png" group-title="NOTICIAS",TODO NOTICIAS 
 https://live-01-01-tn.vodgc.net/TN24/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-ID="Canal26.ar" tvg-name="CANAL 26" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/canal_26.png" group-title="NOTICIAS",CANAL 26 (YT) 
-https://www.youtube.com/watch?v=IZj4NNDK-PE
+https://www.youtube.com/watch?v=RnTmtVFTSf0
 #EXTINF:-1 tvg-ID="C5N.ar" tvg-name="C5N" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/c5n.png" group-title="NOTICIAS",C5N (YT) 
-https://www.youtube.com/watch?v=Tqwhq_8QAGk
+https://www.youtube.com/watch?v=Hy4UCfsE6Yk
 #EXTINF:-1 tvg-ID="ext" tvg-name="CIUDAD MAGICA TV" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/ciudad_magica.png" group-title="PRINCIPAL",CIUDAD MAGICA TV 
 https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="IP" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/ip_noticias.png" group-title="NOTICIAS",IP (YT) 
