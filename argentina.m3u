@@ -5,7 +5,7 @@
 https://www.youtube.com/watch?v=sFZe_RPnNSo
 
 #EXTINF:-1 tvg-ID="TelefeCordoba.ar" tvg-name="TELEFE CORDOBA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/telefe_cordoba.png" group-title="PRINCIPAL",TELEFE CORDOBA 
-https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/hdntl=exp=1712846018~acl=%2f*~data=hdntl~hmac=5e1f8443f466f20cf89a1c07a4a6603e2a43e4169d37236a51ecaefb27436956/Canal8cordoba0.m3u8
+https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/hdntl=exp=1712846383~acl=%2f*~data=hdntl~hmac=fc6bb525d315392c54451112abd7ea30d31f167271abcc0aa42521690a159ea6/Canal8cordoba0.m3u8
 
 #EXTINF:-1 tvg-ID="Canal10Cordoba.ar" tvg-name="CANAL 10 CORDOBA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/canal_10.png" group-title="PRINCIPAL",CANAL 10 CORDOBA 
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/chunklist_w1333416643_b2486272.m3u8
