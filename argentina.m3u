@@ -30,7 +30,7 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 
 
-#EXTINF:-1 tvg-ID="LaNacionPlus.ar" tvg-name="LN+ YT" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/la_nacion_plus.png" group-title="NOTICIAS",LN+ (YT) 
+#EXTINF:-1 tvg-ID="LaNacionPlus.ar" tvg-name="LN+" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/la_nacion_plus.png" group-title="NOTICIAS",LN+ (YT) 
 https://www.youtube.com/watch?v=LY2XEQ_SSXA
 #EXTINF:-1 tvg-ID="A24.ar" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/a24.png" group-title="NOTICIAS",A24 (YT) 
 https://www.youtube.com/watch?v=QGpHLgRnrx4
@@ -43,8 +43,8 @@ https://www.youtube.com/watch?v=RnTmtVFTSf0
 https://www.youtube.com/watch?v=Hy4UCfsE6Yk
 #EXTINF:-1 tvg-ID="ext" tvg-name="CIUDAD MAGICA TV" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/ciudad_magica.png" group-title="PRINCIPAL",CIUDAD MAGICA TV 
 https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="IP" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/ip_noticias.png" group-title="NOTICIAS",IP (YT) 
-https://www.youtube.com/watch?v=HTkRWgGltQw
+#EXTINF:-1 tvg-ID="ext" tvg-name="IP" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/ip_noticias.png" group-title="NOTICIAS",IP
+https://usher.ttvnw.net/api/channel/hls/ip_noticias.m3u8?acmb=e30%3D&allow_source=true&browser_family=firefox&browser_version=124.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=5781395&parent_domains=twitchplayer&platform=web&play_session_id=196182785f0aade9f90cb7e5920e6907&player_backend=mediaplayer&player_version=1.27.0-rc.2.3&playlist_include_framerate=true&reassignments_supported=true&sig=14a19c10e3ad34719fd3e9459f716e0bedda4a41&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22ip_noticias%22%2C%22channel_id%22%3A625134483%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22db2c19a438bde589%22%2C%22expires%22%3A1712761567%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22186.12.184.179%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
 #EXTINF:-1 tvg-ID="CronicaTV.ar" tvg-name="Cronica HD" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/cronica_tv.png" group-title="NOTICIAS",CRONICA HD (YT)
 https://www.youtube.com/watch?v=avly0uwZzOE
 #EXTINF:-1 tvg-ID="DiputadosTV.ar" tvg-name="DIPUTADOS TV" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/dtv.png" group-title="NOTICIAS",DIPUTADOS TV
