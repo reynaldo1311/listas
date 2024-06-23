@@ -21,21 +21,22 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
 #EXTINF:-1 tvg-ID="ElNueve.ar" tvg-name="CANAL 9" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/el_nueve.png" group-title="PRINCIPAL",CANAL 9
-https://usher.ttvnw.net/api/channel/hls/elnuevevivo.m3u8?acmb=e30%3D&allow_source=true&browser_family=firefox&browser_version=124.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=3787582&parent_domains=twitchplayer&platform=web&play_session_id=32fff77031d3897a5d89fd8d82aa4993&player_backend=mediaplayer&player_version=1.27.0-rc.2.3&playlist_include_framerate=true&reassignments_supported=true&sig=392820add2e9ae1d123807e6d06290370aa42286&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22elnuevevivo%22%2C%22channel_id%22%3A1004061179%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22ea5378defd9ed09c%22%2C%22expires%22%3A1712760908%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22186.12.184.179%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
+https://usher.ttvnw.net/api/channel/hls/elnueve_ok.m3u8?acmb=e30%3D&allow_source=true&browser_family=firefox&browser_version=127.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=5509288&parent_domains=twitchplayer&platform=web&play_session_id=23c9f0084e0e5cfd3096ab2ab0176b13&player_backend=mediaplayer&player_version=1.29.0-rc.1&playlist_include_framerate=true&reassignments_supported=true&sig=5c8fc2c58660ac0bc469a6f43cceebc965c07eee&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22elnueve_ok%22%2C%22channel_id%22%3A1078801482%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22c2ae745619961b8c%22%2C%22expires%22%3A1719185058%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22186.12.184.179%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
 
 #EXTINF:-1 tvg-ID="TVPublica.ar" tvg-name="TV PÚBLICA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/tvpublica.png" group-title="PRINCIPAL",TV PÚBLICA 
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
 #EXTINF:-1 tvg-ID="TyCSPORTS.ar" tvg-name="TyC SPORTS" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/tyc_sports.png" group-title="PRINCIPAL",TyC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 
 
 #EXTINF:-1 tvg-ID="LaNacionPlus.ar" tvg-name="LN+" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/la_nacion_plus.png" group-title="NOTICIAS",LN+ (YT) 
-https://www.youtube.com/watch?v=LY2XEQ_SSXA
+https://www.youtube.com/watch?v=ocFG3yor--M
+
 #EXTINF:-1 tvg-ID="A24.ar" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/a24.png" group-title="NOTICIAS",A24 (YT) 
 https://www.youtube.com/watch?v=QGpHLgRnrx4
 #EXTINF:-1 tvg-ID="TN.ar" tvg-name="TODO NOTICIAS" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/tn.png" group-title="NOTICIAS",TODO NOTICIAS 
-https://live-01-01-tn.vodgc.net/TN24/tracks-v4a1/mono.m3u8
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 #EXTINF:-1 tvg-ID="Canal26.ar" tvg-name="CANAL 26" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/canal_26.png" group-title="NOTICIAS",CANAL 26 (YT) 
 https://www.youtube.com/watch?v=RnTmtVFTSf0
@@ -43,12 +44,18 @@ https://www.youtube.com/watch?v=RnTmtVFTSf0
 https://www.youtube.com/watch?v=Hy4UCfsE6Yk
 #EXTINF:-1 tvg-ID="ext" tvg-name="CIUDAD MAGICA TV" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/ciudad_magica.png" group-title="PRINCIPAL",CIUDAD MAGICA TV 
 https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
+
 #EXTINF:-1 tvg-ID="ext" tvg-name="IP" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/ip_noticias.png" group-title="NOTICIAS",IP
+https://usher.ttvnw.net/api/channel/hls/ip_noticias.m3u8?acmb=e30%3D&allow_source=true&browser_family=firefox&browser_version=127.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=5296952&parent_domains=twitchplayer&platform=web&play_session_id=b9e5f329d17ce2014bdb0111cac085c5&player_backend=mediaplayer&player_version=1.30.0-rc.1&playlist_include_framerate=true&reassignments_supported=true&sig=3a18004b58a65e46f6e36b0d16987c08fba34808&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22ip_noticias%22%2C%22channel_id%22%3A625134483%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%2290a2b615d0223e64%22%2C%22expires%22%3A1719185342%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22186.12.184.179%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
+
+
 https://usher.ttvnw.net/api/channel/hls/ip_noticias.m3u8?acmb=e30%3D&allow_source=true&browser_family=firefox&browser_version=124.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=5781395&parent_domains=twitchplayer&platform=web&play_session_id=196182785f0aade9f90cb7e5920e6907&player_backend=mediaplayer&player_version=1.27.0-rc.2.3&playlist_include_framerate=true&reassignments_supported=true&sig=14a19c10e3ad34719fd3e9459f716e0bedda4a41&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22ip_noticias%22%2C%22channel_id%22%3A625134483%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22db2c19a438bde589%22%2C%22expires%22%3A1712761567%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22186.12.184.179%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
 #EXTINF:-1 tvg-ID="CronicaTV.ar" tvg-name="Cronica HD" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/cronica_tv.png" group-title="NOTICIAS",CRONICA HD (YT)
 https://www.youtube.com/watch?v=avly0uwZzOE
 #EXTINF:-1 tvg-ID="DiputadosTV.ar" tvg-name="DIPUTADOS TV" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/dtv.png" group-title="NOTICIAS",DIPUTADOS TV
-https://www.youtube.com/watch?v=Gq6MIaZ501A
+https://www.youtube.com/watch?v=PLqOXeFTnMYkzo 
+
+
 #EXTINF:-1 tvg-ID="KZO.ar" tvg-name="KZO" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/kzo.png" group-title="NOTICIAS",KZO (YT)
 https://www.youtube.com/watch?v=ew8qg_rHeKc
 #EXTINF:-1 tvg-ID="Telesur.ve" tvg-name="TELESUR" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/telesur.png" group-title="NOTICIAS",TELESUR 
