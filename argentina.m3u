@@ -31,14 +31,14 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 
 #EXTINF:-1 tvg-ID="DeporTV.ar" tvg-name="DEPORT TV 24.1" tvg-logo="https://pbs.twimg.com/profile_images/1542154273454260225/Xu_W8j8r_400x400.jpg" group-title="DEPORTE",DEPORT TV 24.1
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/chunklist_w940611112.m3u8
-#EXTINF:-1 tvg-ID="TyCSPORTSs.ar" tvg-name="TyC SPORTS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_SPORTSs_logo.svg/512px-TyC_SPORTSs_logo.svg.png" group-title="DEPORTE",TyC SPORTS 
+#EXTINF:-1 tvg-ID="TyCSPORTS.ar" tvg-name="TyC SPORTS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_SPORTSs_logo.svg/512px-TyC_SPORTSs_logo.svg.png" group-title="DEPORTE",TyC SPORTS 
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
-#EXTINF:-1 tvg-ID="TyCSPORTSs.ar" tvg-name="TyC SPORTS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_SPORTSs_logo.svg/512px-TyC_SPORTSs_logo.svg.png" group-title="DEPORTE",TyC SPORTS 
+#EXTINF:-1 tvg-ID="TyCSPORTS.ar" tvg-name="TyC SPORTS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_SPORTSs_logo.svg/512px-TyC_SPORTSs_logo.svg.png" group-title="DEPORTE",TyC SPORTS 
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="NEO TV DIGITAL" tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/logo-neo-tv_orig.png" group-title="DEPORTE",NEO TV DIGITAL
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="CIUDAD MAGICA TV" tvg-logo="https://play-lh.googleusercontent.com/SxFDTWadD_WzvUOKUlPc0n7ZS20-Gatw3OSr1WY2zyuBxZClf2aomcpg9EoVuYZHuHI" group-title="DEPORTE",CIUDAD MAGICA TV
-https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
+https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="CANAL 6 MAR DEL PLATA " tvg-logo="https://canal6mardelplata.weebly.com/uploads/1/4/0/1/140190766/published/89617673-666063307530186-6373931604150059008-n.jpg?1639521855" group-title="DEPORTE",CANAL 6 MAR DEL PLATA 
 https://panel.dattalive.com/8166/8166/playlist.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Bayres TV" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/bayres-tv.png" group-title="DEPORTE",Bayres TV
