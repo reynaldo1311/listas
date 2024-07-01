@@ -31,6 +31,128 @@ https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_
 #EXTINF:-1 tvg-ID="TyCSPORTS.ar" tvg-name="TyC SPORTS" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/tyc_sports.png" group-title="PRINCIPAL",TyC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 
+#EXTINF:-1 tvg-ID="DeporTV.ar" tvg-name="DEPORT TV 24.1" tvg-logo="https://pbs.twimg.com/profile_images/1542154273454260225/Xu_W8j8r_400x400.jpg" group-title="DEPORTE",DEPORT TV 24.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-ID="TyCSPORTSs.ar" tvg-name="TyC SPORTS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_SPORTSs_logo.svg/512px-TyC_SPORTSs_logo.svg.png" group-title="DEPORTE",TyC SPORTS 
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+#EXTINF:-1 tvg-ID="TyCSPORTSs.ar" tvg-name="TyC SPORTS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_SPORTSs_logo.svg/512px-TyC_SPORTSs_logo.svg.png" group-title="DEPORTE",TyC SPORTS 
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="NEO TV DIGITAL" tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/logo-neo-tv_orig.png" group-title="DEPORTE",NEO TV DIGITAL
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="CIUDAD MAGICA TV" tvg-logo="https://play-lh.googleusercontent.com/SxFDTWadD_WzvUOKUlPc0n7ZS20-Gatw3OSr1WY2zyuBxZClf2aomcpg9EoVuYZHuHI" group-title="DEPORTE",CIUDAD MAGICA TV
+https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="CANAL 6 MAR DEL PLATA " tvg-logo="https://canal6mardelplata.weebly.com/uploads/1/4/0/1/140190766/published/89617673-666063307530186-6373931604150059008-n.jpg?1639521855" group-title="DEPORTE",CANAL 6 MAR DEL PLATA 
+https://panel.dattalive.com/8166/8166/playlist.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="Bayres TV" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/bayres-tv.png" group-title="DEPORTE",Bayres TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="TyC SPORTS PLAY 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",TyC SPORTS PLAY 1
+https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="TyC SPORTS PLAY 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",TyC SPORTS PLAY 2
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="TyC SPORTS PLAY 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",TyC SPORTS PLAY 3
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="TyC SPORTS PLAY 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",TyC SPORTS PLAY 4
+https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="TyC SPORTS PLAY 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",TyC SPORTS PLAY 5
+https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="TyC SPORTS PLAY 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",TyC SPORTS PLAY 6
+https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="TyC SPORTS PLAY 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",TyC SPORTS PLAY 7
+https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="TyC SPORTS PLAY 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",TyC SPORTS PLAY 8
+https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="TyC SPORTS PLAY 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",TyC SPORTS PLAY 9
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="TyC SPORTS PLAY 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",TyC SPORTS PLAY 10
+https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="TyC SPORTS PLAY 11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",TyC SPORTS PLAY 11
+https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="TyC SPORTS PLAY 12" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",TyC SPORTS PLAY 12
+https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="HIPODROMO PALERMO" tvg-logo="" group-title="DEPORTE",HIPODROMO PALERMO
+https://www.youtube.com/watch?v=9bFoQOcVC-Q  
+#EXTINF:-1 tvg-ID="ext" tvg-name="ALL SPORTSS" tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allSPORTSs.png" group-title="DEPORTE",ALL SPORTSS
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="TNT SPORTSs  Brasil" tvg-logo="http://www.latinspots.com/files/notas/Gnota_56697.jpg" group-title="DEPORTE",TNT SPORTSs  Brasil
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="TNT SPORTSs 2 Brasil" tvg-logo="http://www.latinspots.com/files/notas/Gnota_56697.jpg" group-title="DEPORTE",TNT SPORTSs 2 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="TNT SPORTSs 3 Brasil" tvg-logo="http://www.latinspots.com/files/notas/Gnota_56697.jpg" group-title="DEPORTE",TNT SPORTSs 3 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="TNT SPORTSs 4 Brasil" tvg-logo="http://www.latinspots.com/files/notas/Gnota_56697.jpg" group-title="DEPORTE",TNT SPORTSs 4 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="TNT SPORTSs 5 Brasil" tvg-logo="http://www.latinspots.com/files/notas/Gnota_56697.jpg" group-title="DEPORTE",TNT SPORTSs 5 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 1" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 1
+https://d28q0dll3fo7ay.cloudfront.net/out/v1/2370f106ad21496cbf41edf4aa88c2e4/index.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 2" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 2
+https://d21deohos06u2t.cloudfront.net/out/v1/30852f926a904f3c88f5653fafb27e2f/index.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 3" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 3
+https://dnffo1bekrsbw.cloudfront.net/out/v1/7912575117534c7485ba6233d0bda42a/index.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 4" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 4
+https://d1x82plc04l3xw.cloudfront.net/out/v1/3a15096b0d7844dca7d5f230fc3f4dee/index.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 5" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 5
+https://d2b4m328oi58vn.cloudfront.net/out/v1/4b6f958243c745d3b3e19ac862d703c2/index.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 6" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 6
+https://d35ft96448qn3i.cloudfront.net/out/v1/d3e020e33a554f67919b2c3061a306a6/index.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 7" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 7
+https://d2w3vqtzipao6c.cloudfront.net/out/v1/d2486b9151a249358f61acc5927d59ee/index.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 7" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 8
+https://d21o7nxsrl4qau.cloudfront.net/out/v1/e434478daec6458898cd3b7503a8bcfe/index.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 9" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 9
+https://d12s4cghcpi6v.cloudfront.net/out/v1/ccbf0a6b9a4e41e2b71a3c4a9915671b/index.m3u8
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Deportes" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="DEPORTE",Deportes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-ID="ext" tvg-name="Peleas" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" group-title="DEPORTE",Peleas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-ID="ext" tvg-name="All Elite Wrestling" tvg-logo="https://images.pluto.tv/channels/5f4d1697f10a0e000798ed8d/colorLogoPNG.png" group-title="DEPORTE",All Elite Wrestling
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-ID="ext" tvg-name="Lucha Libre AAA" tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" group-title="DEPORTE",Lucha Libre AAA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-ID="ext" tvg-name="Motorvision TV" tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" group-title="DEPORTE",Motorvision TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-ID="ext" tvg-name="FUEL TV" tvg-logo="https://images.pluto.tv/channels/6144d313b34fbf0007107714/colorLogoPNG.png" group-title="DEPORTE",FUEL TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d313b34fbf0007107714/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-ID="5cb626cfcaf83414128f439c" tvg-name="MLS" tvg-logo="https://images.pluto.tv/channels/5cb626cfcaf83414128f439c/colorLogoPNG.png" group-title="DEPORTE",MLS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-ID="ext" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="DEPORTE",NFL Channel
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-ID="ext" tvg-name="PGA TOUR" tvg-logo="https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="DEPORTE",PGA TOUR
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-ID="ext" tvg-name="MLB" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="DEPORTE",MLB
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-ID="ext" tvg-name="Boxing" tvg-logo="https://images.pluto.tv/channels/5fac425f949b4600079938f3/colorLogoPNG.png" group-title="DEPORTE",Boxing
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-ID="ext" tvg-name="beIN SPORTSS XTRA en espa?ol" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="DEPORTE",beIN SPORTSS XTRA en espa?ol
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-ID="ext" tvg-name="MAVTV Select" tvg-logo="https://images.pluto.tv/channels/611468532f5f180007fbbc9c/colorLogoPNG.png" group-title="DEPORTE",MAVTV Select
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611468532f5f180007fbbc9c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-ID="ext" tvg-name="Top Gear" tvg-logo="https://images.pluto.tv/channels/61325566b3c86a00078e4819/colorLogoPNG.png" group-title="DEPORTE",Top Gear
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61325566b3c86a00078e4819/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-ID="ext" tvg-name="PrendeTV Lo mejor de Liga MX" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/79/USBB44000088K_20211117T100435.png" group-title="DEPORTE",PrendeTV Lo mejor de Liga MX
+https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2d8j5h422463p-prod/dist/samsungtv/193/hls/master/playlist.m3u8?ads.device_did={PSID}&ads.device_dnt={TARGETOPT}&ads.us_privacy=1YNY&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}
+#EXTINF:-1 tvg-ID="ext" tvg-name="Realmadrid tv" tvg-logo="https://images.pluto.tv/channels/613272f1279862000734464e/colorLogoPNG.png" group-title="DEPORTE",Realmadrid tv
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613272f1279862000734464e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&
+#EXTINF:-1 tvg-ID="ext" tvg-name="PAC 12" tvg-logo="https://pbs.twimg.com/profile_images/419614354158280704/WBvTLeRR.jpeg" group-title="DEPORTE",PAC 12
+https://pac12-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="RED BULL TV" tvg-logo="https://i2.wp.com/ossom.cl/wp-content/uploads/2020/03/red_bull_tv.jpg?fit=610,350&ssl=1" group-title="DEPORTE",RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="Abu Dhabi SPORTSs 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNPKmNGqH1IUzEtI7ttOFDMkvy0qkVhR_u0Cq0q9V-ZZEb_YH3pvi9ID1wWreeiJ06g6M&usqp=CAU" group-title="DEPORTE",Abu Dhabi SPORTSs 1
+https://admdn1.cdn.mangomolo.com/adSPORTSs1/smil:adSPORTSs1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="Abu Dhabi SPORTSs 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNPKmNGqH1IUzEtI7ttOFDMkvy0qkVhR_u0Cq0q9V-ZZEb_YH3pvi9ID1wWreeiJ06g6M&usqp=CAU" group-title="DEPORTE",Abu Dhabi SPORTSs 2
+https://admdn5.cdn.mangomolo.com/adSPORTSs2/smil:adSPORTSs2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="Abu Dhabi SPORTSs 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNPKmNGqH1IUzEtI7ttOFDMkvy0qkVhR_u0Cq0q9V-ZZEb_YH3pvi9ID1wWreeiJ06g6M&usqp=CAU" group-title="DEPORTE",Abu Dhabi SPORTSs 3
+https://admdn3.cdn.mangomolo.com/adSPORTSs3/smil:adSPORTSs3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="Dubai SPORTSs 1" tvg-logo="https://www.elboox.com/wp-content/uploads/2021/04/????-???-????????.jpg" group-title="DEPORTE",Dubai SPORTSs 1
+http://dmitnthvll.cdn.mangomolo.com/dubaiSPORTSs/smil:dubaiSPORTSs.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="Dubai SPORTSs 2" tvg-logo="https://www.elboox.com/wp-content/uploads/2021/04/????-???-????????.jpg" group-title="DEPORTE",Dubai SPORTSs 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaiSPORTSshd/smil:dubaiSPORTSshd.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="Dubai SPORTSs 3" tvg-logo="https://www.elboox.com/wp-content/uploads/2021/04/????-???-????????.jpg" group-title="DEPORTE",Dubai SPORTSs 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaiSPORTSshd5/smil:dubaiSPORTSshd5.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1 tvg-ID="LaNacionPlus.ar" tvg-name="LN+" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/la_nacion_plus.png" group-title="NOTICIAS",LN+ (YT) 
 https://www.youtube.com/watch?v=ocFG3yor--M
@@ -261,127 +383,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1d
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fabfce6e8e00070bcc9f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-ID="ext" tvg-name="MTV Spankin New" tvg-logo="https://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png" group-title="MUSICA",MTV Spankin New
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fd723b5bd00007de7092/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-ID="DeporTV.ar" tvg-name="DEPORT TV 24.1" tvg-logo="https://pbs.twimg.com/profile_images/1542154273454260225/Xu_W8j8r_400x400.jpg" group-title="DEPORTE",DEPORT TV 24.1
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 tvg-ID="TyCSPORTSs.ar" tvg-name="TyC SPORTS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_SPORTSs_logo.svg/512px-TyC_SPORTSs_logo.svg.png" group-title="DEPORTE",TyC SPORTS 
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
-#EXTINF:-1 tvg-ID="TyCSPORTSs.ar" tvg-name="TyC SPORTS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_SPORTSs_logo.svg/512px-TyC_SPORTSs_logo.svg.png" group-title="DEPORTE",TyC SPORTS 
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="NEO TV DIGITAL" tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/logo-neo-tv_orig.png" group-title="DEPORTE",NEO TV DIGITAL
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="CIUDAD MAGICA TV" tvg-logo="https://play-lh.googleusercontent.com/SxFDTWadD_WzvUOKUlPc0n7ZS20-Gatw3OSr1WY2zyuBxZClf2aomcpg9EoVuYZHuHI" group-title="DEPORTE",CIUDAD MAGICA TV
-https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="CANAL 6 MAR DEL PLATA " tvg-logo="https://canal6mardelplata.weebly.com/uploads/1/4/0/1/140190766/published/89617673-666063307530186-6373931604150059008-n.jpg?1639521855" group-title="DEPORTE",CANAL 6 MAR DEL PLATA 
-https://panel.dattalive.com/8166/8166/playlist.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="Bayres TV" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/bayres-tv.png" group-title="DEPORTE",Bayres TV
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS TyC SPORTS PLAY 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",EVENTOS TyC SPORTS PLAY 1
-https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS TyC SPORTS PLAY 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",EVENTOS TyC SPORTS PLAY 2
-https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS TyC SPORTS PLAY 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",EVENTOS TyC SPORTS PLAY 3
-https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS TyC SPORTS PLAY 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",EVENTOS TyC SPORTS PLAY 4
-https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS TyC SPORTS PLAY 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",EVENTOS TyC SPORTS PLAY 5
-https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS TyC SPORTS PLAY 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",EVENTOS TyC SPORTS PLAY 6
-https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
 
-#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS TyC SPORTS PLAY 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",EVENTOS TyC SPORTS PLAY 7
-https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS TyC SPORTS PLAY 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",EVENTOS TyC SPORTS PLAY 8
-https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS TyC SPORTS PLAY 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",EVENTOS TyC SPORTS PLAY 9
-https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
-
-#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS TyC SPORTS PLAY 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",EVENTOS TyC SPORTS PLAY 10
-https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS TyC SPORTS PLAY 11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",EVENTOS TyC SPORTS PLAY 11
-https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS TyC SPORTS PLAY 12" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",EVENTOS TyC SPORTS PLAY 12
-https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="HIPODROMO PALERMO" tvg-logo="" group-title="DEPORTE",HIPODROMO PALERMO
-https://www.youtube.com/watch?v=9bFoQOcVC-Q  
-#EXTINF:-1 tvg-ID="ext" tvg-name="ALL SPORTSS" tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allSPORTSs.png" group-title="DEPORTE",ALL SPORTSS
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS TNT SPORTSs  Brasil" tvg-logo="http://www.latinspots.com/files/notas/Gnota_56697.jpg" group-title="DEPORTE",EVENTOS TNT SPORTSs  Brasil
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS TNT SPORTSs 2 Brasil" tvg-logo="http://www.latinspots.com/files/notas/Gnota_56697.jpg" group-title="DEPORTE",EVENTOS TNT SPORTSs 2 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS TNT SPORTSs 3 Brasil" tvg-logo="http://www.latinspots.com/files/notas/Gnota_56697.jpg" group-title="DEPORTE",EVENTOS TNT SPORTSs 3 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS TNT SPORTSs 4 Brasil" tvg-logo="http://www.latinspots.com/files/notas/Gnota_56697.jpg" group-title="DEPORTE",EVENTOS TNT SPORTSs 4 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS TNT SPORTSs 5 Brasil" tvg-logo="http://www.latinspots.com/files/notas/Gnota_56697.jpg" group-title="DEPORTE",EVENTOS TNT SPORTSs 5 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS LPF Play 1" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",EVENTOS LPF Play 1
-https://d28q0dll3fo7ay.cloudfront.net/out/v1/2370f106ad21496cbf41edf4aa88c2e4/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS LPF Play 2" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",EVENTOS LPF Play 2
-https://d21deohos06u2t.cloudfront.net/out/v1/30852f926a904f3c88f5653fafb27e2f/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS LPF Play 3" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",EVENTOS LPF Play 3
-https://dnffo1bekrsbw.cloudfront.net/out/v1/7912575117534c7485ba6233d0bda42a/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS LPF Play 4" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",EVENTOS LPF Play 4
-https://d1x82plc04l3xw.cloudfront.net/out/v1/3a15096b0d7844dca7d5f230fc3f4dee/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS LPF Play 5" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",EVENTOS LPF Play 5
-https://d2b4m328oi58vn.cloudfront.net/out/v1/4b6f958243c745d3b3e19ac862d703c2/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS LPF Play 6" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",EVENTOS LPF Play 6
-https://d35ft96448qn3i.cloudfront.net/out/v1/d3e020e33a554f67919b2c3061a306a6/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS LPF Play 7" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",EVENTOS LPF Play 7
-https://d2w3vqtzipao6c.cloudfront.net/out/v1/d2486b9151a249358f61acc5927d59ee/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS LPF Play 7" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",EVENTOS LPF Play 8
-https://d21o7nxsrl4qau.cloudfront.net/out/v1/e434478daec6458898cd3b7503a8bcfe/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="EVENTOS LPF Play 9" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",EVENTOS LPF Play 9
-https://d12s4cghcpi6v.cloudfront.net/out/v1/ccbf0a6b9a4e41e2b71a3c4a9915671b/index.m3u8
-
-#EXTINF:-1 tvg-ID="ext" tvg-name="Deportes" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="DEPORTE",Deportes
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-ID="ext" tvg-name="Peleas" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" group-title="DEPORTE",Peleas
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-ID="ext" tvg-name="All Elite Wrestling" tvg-logo="https://images.pluto.tv/channels/5f4d1697f10a0e000798ed8d/colorLogoPNG.png" group-title="DEPORTE",All Elite Wrestling
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-ID="ext" tvg-name="Lucha Libre AAA" tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" group-title="DEPORTE",Lucha Libre AAA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-ID="ext" tvg-name="Motorvision TV" tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" group-title="DEPORTE",Motorvision TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-ID="ext" tvg-name="FUEL TV" tvg-logo="https://images.pluto.tv/channels/6144d313b34fbf0007107714/colorLogoPNG.png" group-title="DEPORTE",FUEL TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d313b34fbf0007107714/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-ID="5cb626cfcaf83414128f439c" tvg-name="MLS" tvg-logo="https://images.pluto.tv/channels/5cb626cfcaf83414128f439c/colorLogoPNG.png" group-title="DEPORTE",MLS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-ID="ext" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="DEPORTE",NFL Channel
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-ID="ext" tvg-name="PGA TOUR" tvg-logo="https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="DEPORTE",PGA TOUR
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-ID="ext" tvg-name="MLB" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="DEPORTE",MLB
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-ID="ext" tvg-name="Boxing" tvg-logo="https://images.pluto.tv/channels/5fac425f949b4600079938f3/colorLogoPNG.png" group-title="DEPORTE",Boxing
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-ID="ext" tvg-name="beIN SPORTSS XTRA en espa?ol" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="DEPORTE",beIN SPORTSS XTRA en espa?ol
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-ID="ext" tvg-name="MAVTV Select" tvg-logo="https://images.pluto.tv/channels/611468532f5f180007fbbc9c/colorLogoPNG.png" group-title="DEPORTE",MAVTV Select
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611468532f5f180007fbbc9c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-ID="ext" tvg-name="Top Gear" tvg-logo="https://images.pluto.tv/channels/61325566b3c86a00078e4819/colorLogoPNG.png" group-title="DEPORTE",Top Gear
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61325566b3c86a00078e4819/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-ID="ext" tvg-name="PrendeTV Lo mejor de Liga MX" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/79/USBB44000088K_20211117T100435.png" group-title="DEPORTE",PrendeTV Lo mejor de Liga MX
-https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2d8j5h422463p-prod/dist/samsungtv/193/hls/master/playlist.m3u8?ads.device_did={PSID}&ads.device_dnt={TARGETOPT}&ads.us_privacy=1YNY&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}
-#EXTINF:-1 tvg-ID="ext" tvg-name="Realmadrid tv" tvg-logo="https://images.pluto.tv/channels/613272f1279862000734464e/colorLogoPNG.png" group-title="DEPORTE",Realmadrid tv
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613272f1279862000734464e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&
-#EXTINF:-1 tvg-ID="ext" tvg-name="PAC 12" tvg-logo="https://pbs.twimg.com/profile_images/419614354158280704/WBvTLeRR.jpeg" group-title="DEPORTE",PAC 12
-https://pac12-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="RED BULL TV" tvg-logo="https://i2.wp.com/ossom.cl/wp-content/uploads/2020/03/red_bull_tv.jpg?fit=610,350&ssl=1" group-title="DEPORTE",RED BULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="Abu Dhabi SPORTSs 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNPKmNGqH1IUzEtI7ttOFDMkvy0qkVhR_u0Cq0q9V-ZZEb_YH3pvi9ID1wWreeiJ06g6M&usqp=CAU" group-title="DEPORTE",Abu Dhabi SPORTSs 1
-https://admdn1.cdn.mangomolo.com/adSPORTSs1/smil:adSPORTSs1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="Abu Dhabi SPORTSs 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNPKmNGqH1IUzEtI7ttOFDMkvy0qkVhR_u0Cq0q9V-ZZEb_YH3pvi9ID1wWreeiJ06g6M&usqp=CAU" group-title="DEPORTE",Abu Dhabi SPORTSs 2
-https://admdn5.cdn.mangomolo.com/adSPORTSs2/smil:adSPORTSs2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="Abu Dhabi SPORTSs 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNPKmNGqH1IUzEtI7ttOFDMkvy0qkVhR_u0Cq0q9V-ZZEb_YH3pvi9ID1wWreeiJ06g6M&usqp=CAU" group-title="DEPORTE",Abu Dhabi SPORTSs 3
-https://admdn3.cdn.mangomolo.com/adSPORTSs3/smil:adSPORTSs3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="Dubai SPORTSs 1" tvg-logo="https://www.elboox.com/wp-content/uploads/2021/04/????-???-????????.jpg" group-title="DEPORTE",Dubai SPORTSs 1
-http://dmitnthvll.cdn.mangomolo.com/dubaiSPORTSs/smil:dubaiSPORTSs.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="Dubai SPORTSs 2" tvg-logo="https://www.elboox.com/wp-content/uploads/2021/04/????-???-????????.jpg" group-title="DEPORTE",Dubai SPORTSs 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaiSPORTSshd/smil:dubaiSPORTSshd.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="Dubai SPORTSs 3" tvg-logo="https://www.elboox.com/wp-content/uploads/2021/04/????-???-????????.jpg" group-title="DEPORTE",Dubai SPORTSs 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaiSPORTSshd5/smil:dubaiSPORTSshd5.smil/chunklist_b1600000.m3u8
 
 
 
