@@ -45,9 +45,9 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TyC SPORTS PLAY 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",TyC SPORTS PLAY 1
 https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TyC SPORTS PLAY 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",TyC SPORTS PLAY 2
-https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="TyC SPORTS PLAY 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",TyC SPORTS PLAY 3
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="TyC SPORTS PLAY 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",TyC SPORTS PLAY 3
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TyC SPORTS PLAY 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",TyC SPORTS PLAY 4
 https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TyC SPORTS PLAY 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE",TyC SPORTS PLAY 5
