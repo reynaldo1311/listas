@@ -156,17 +156,15 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaiSPORTSshd/smil:dubaiSPORTSshd.smil/chun
 http://dmitwlvvll.cdn.mangomolo.com/dubaiSPORTSshd5/smil:dubaiSPORTSshd5.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1 tvg-ID="LaNacionPlus.ar" tvg-name="LN+" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/la_nacion_plus.png" group-title="NOTICIAS",LN+ (YT) 
-https://www.youtube.com/watch?v=ocFG3yor--M
-
+https://www.youtube.com/watch?v=5f__Ls4_VYQ
 #EXTINF:-1 tvg-ID="A24.ar" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/a24.png" group-title="NOTICIAS",A24 (YT) 
-https://www.youtube.com/watch?v=QGpHLgRnrx4
+https://www.youtube.com/watch?v=ArKbAx1K-2U
 #EXTINF:-1 tvg-ID="TN.ar" tvg-name="TODO NOTICIAS" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/tn.png" group-title="NOTICIAS",TODO NOTICIAS 
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-
+https://www.youtube.com/watch?v=cb12KmMMDJA
 #EXTINF:-1 tvg-ID="Canal26.ar" tvg-name="CANAL 26" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/canal_26.png" group-title="NOTICIAS",CANAL 26 (YT) 
-https://www.youtube.com/watch?v=RnTmtVFTSf0
+https://www.youtube.com/watch?v=BTaSHvWJW5A
 #EXTINF:-1 tvg-ID="C5N.ar" tvg-name="C5N" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/c5n.png" group-title="NOTICIAS",C5N (YT) 
-https://www.youtube.com/watch?v=Hy4UCfsE6Yk
+https://www.youtube.com/watch?v=jTDk5CswBVk
 #EXTINF:-1 tvg-ID="ext" tvg-name="CIUDAD MAGICA TV" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/ciudad_magica.png" group-title="PRINCIPAL",CIUDAD MAGICA TV 
 https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 
