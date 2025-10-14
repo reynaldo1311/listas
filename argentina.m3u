@@ -108,7 +108,8 @@ https://lpfevents3-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
 https://lpfevents4-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 5" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 5
-https://d2b4m328oi58vn.cloudfront.net/out/v1/4b6f958243c745d3b3e19ac862d703c2/index.m3u8
+https://lpfevents5-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
+
 #EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 6" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 6
 https://d35ft96448qn3i.cloudfront.net/out/v1/d3e020e33a554f67919b2c3061a306a6/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 7" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 7
