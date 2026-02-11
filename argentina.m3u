@@ -109,17 +109,21 @@ https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/f6f48a13-0
 
 
 #EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 5" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 5
-https://lpfevents5-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
+https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/26e04e79-afff-48b8-9215-f9e2f4d14e8c/4d10a105-0e9c-4590-bce1-ca61ca82b3ee/master.m3u8
 
 #EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 6" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 6
-https://lpfevents6-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
+https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/559bbb06-ec8c-4b5c-977e-5ed0bcdbc175/02863998-5114-457b-a9e0-feb69b35ebf1/master.m3u8
 
 #EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 7" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 7
-https://d2w3vqtzipao6c.cloudfront.net/out/v1/d2486b9151a249358f61acc5927d59ee/index.m3u8
+https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/5d537c0a-6fa6-469b-a023-a37db675a770/cf9418f2-a1fc-4158-82f2-15d75239547b/master.m3u8
+
 #EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 7" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 8
-https://d21o7nxsrl4qau.cloudfront.net/out/v1/e434478daec6458898cd3b7503a8bcfe/index.m3u8
+https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/bf71ec7b-2044-47d5-897f-25cf5d07b2ee/fe758ba1-7e0f-43ed-884b-f3aa6bc6ee94/master.m3u8
+
 #EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 9" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 9
-https://d12s4cghcpi6v.cloudfront.net/out/v1/ccbf0a6b9a4e41e2b71a3c4a9915671b/index.m3u8
+https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/ce1c27f9-f7ed-44fd-b7d1-feb91560aa50/3a6c3149-0ae0-48c7-9247-6b3ce4660f2b/master.m3u8
+
+
 
 #EXTINF:-1 tvg-ID="ext" tvg-name="Deportes" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="DEPORTE",Deportes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
