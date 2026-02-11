@@ -96,16 +96,17 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 1" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 1
-https://lpfevents1-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
+https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/b5f5ffe5-2a68-468e-b0f8-b33c5c215186/7d9939f6-ef88-4cb3-a3f0-a92edc5129c9/master.m3u8
 
 #EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 2" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 2
-https://lpfevents2-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
+https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/357d3a08-281d-4259-b82f-6dde3994afa9/f0bce0f6-7d86-4c47-afc0-448bd0542ac5/master.m3u8
 
 #EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 3" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 3
-https://lpfevents3-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
+https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/b56118d5-ad31-4ddc-9170-1ab6027a83fa/268f2c7d-ee18-41b6-9651-e4fa6637d111/master.m3u8
 
 #EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 4" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 4
-https://lpfevents4-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
+https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/f6f48a13-0e22-4340-8db1-1b760234c6b6/6982cc83-47b9-470f-b9e8-16460ccbcb1a/master.m3u8
+
 
 #EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 5" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 5
 https://lpfevents5-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
