@@ -123,6 +123,29 @@ https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/bf71ec7b-2
 #EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 9" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 9
 https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/ce1c27f9-f7ed-44fd-b7d1-feb91560aa50/3a6c3149-0ae0-48c7-9247-6b3ce4660f2b/master.m3u8
 
+#EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 11" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 11
+https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/db622fe0-dc1f-445a-9eaa-faa523fccffd/99817bf8-5ac7-48e3-a6f7-0ff4f68f43f0/master.m3u8
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 12" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 12
+https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/ffea8469-7dfa-420c-83ab-686325ca56d8/1aac0b37-7283-470c-a8a0-ee901fbd16ce/master.m3u8
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 13" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 13
+https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/c45aac00-5db9-4dba-b3c5-e8fdb5d759c4/05e73ff4-5ec5-4aac-a48f-9fda01c71de6/master.m3u8
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 14" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 14
+https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/bfd156b9-be17-493d-b1c2-b9c5ef34fd9a/f16e24ea-3c24-40ac-a65e-163be1c80eed/master.m3u8 
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 15" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 15
+https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/8324903c-932a-4c0b-8440-a9afbed1a878/88f9a751-c0ff-47fd-8456-85e5325d74b1/master.m3u8
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 16" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 16
+https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/db2367df-6ea2-416f-9585-6e21b6fdbf21/892fad1a-df7a-43d1-9887-508eff8d600c/master.m3u8
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 17" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 17
+https://d12s4cghcpi6v.cloudfront.net/out/v1/ccbf0a6b9a4e41e2b71a3c4a9915671b/index.m3u8
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LPF Play 18" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/LPF.png" group-title="DEPORTE",LPF Play 18
+https://d12s4cghcpi6v.cloudfront.net/out/v1/ccbf0a6b9a4e41e2b71a3c4a9915671b/index.m3u8
 
 
 #EXTINF:-1 tvg-ID="ext" tvg-name="Deportes" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="DEPORTE",Deportes
